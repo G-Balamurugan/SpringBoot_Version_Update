@@ -1,32 +1,7 @@
-[
+ [
   {
-    "GroupID": "junit",
-    "ArtifactID": "junit",
-    "Version": "4.13.2"
-  },
-  {
-    "GroupID": "org.hamcrest",
-    "ArtifactID": "hamcrest",
-    "Version": "2.2"
-  },
-  {
-    "GroupID": "commons-codec",
-    "ArtifactID": "commons-codec",
-    "Version": "1.15"
-  },
-  {
-    "GroupID": "com.fasterxml",
-    "ArtifactID": "classmate",
-    "Version": "1.5.1"
-  },
-  {
-    "GroupID": "org.hamcrest",
-    "ArtifactID": "hamcrest-library",
-    "Version": "2.2"
-  },
-  {
-    "GroupID": "commons-pool",
-    "ArtifactID": "commons-pool",
-    "Version": "1.6"
+    "GroupID": "group id",
+    "ArtifactID": "artifact id",
+    "Version": "version"
   }
 ]
