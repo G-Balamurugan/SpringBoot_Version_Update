@@ -1,5 +1,5 @@
 # Input 
-pwdForService = "/Users/balamurugan/Downloads/gdncomm-search-e7179998ac3f"
+pwdForService = "/Users/balamurugan/Downloads/service-name"
 url = "https://docs.spring.io/spring-boot/docs/3.0.x/reference/html/dependency-versions.html"
 folderLocation = "/Users/balamurugan/Desktop/JavaVersion"
 
