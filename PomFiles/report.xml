@@ -1,0 +1,60 @@
+<ns0:project xmlns:ns0="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <ns0:parent>
+        <ns0:groupId>com.gdn.x.search</ns0:groupId>
+        <ns0:artifactId>search-parent</ns0:artifactId>
+        <ns0:version>8.22.0-9-SNAPSHOT</ns0:version>
+    </ns0:parent>
+    <ns0:modelVersion>4.0.0</ns0:modelVersion>
+
+    <ns0:artifactId>search-report</ns0:artifactId>
+    
+
+
+
+
+
+
+
+
+    
+
+    <ns0:dependencies>
+        <ns0:dependency>
+            <ns0:groupId>com.gdn.x.search</ns0:groupId>
+            <ns0:artifactId>search-dao-mongodb</ns0:artifactId>
+        </ns0:dependency>
+        <ns0:dependency>
+            <ns0:groupId>com.gdn.x.search</ns0:groupId>
+            <ns0:artifactId>search-service-impl</ns0:artifactId>
+        </ns0:dependency>
+        <ns0:dependency>
+            <ns0:groupId>com.gdn.x.search</ns0:groupId>
+            <ns0:artifactId>search-integration</ns0:artifactId>
+        </ns0:dependency>
+        <ns0:dependency>
+            <ns0:groupId>com.gdn.x.search</ns0:groupId>
+            <ns0:artifactId>search-rest-web</ns0:artifactId>
+        </ns0:dependency>
+    </ns0:dependencies>
+
+    <ns0:build>
+        <ns0:plugins>
+            <ns0:plugin>
+                <ns0:groupId>org.jacoco</ns0:groupId>
+                <ns0:artifactId>jacoco-maven-plugin</ns0:artifactId>
+                <ns0:version>${jacoco.plugin.version}</ns0:version>
+                <ns0:executions>
+                    <ns0:execution>
+                        <ns0:id>report-aggregate</ns0:id>
+                        <ns0:goals>
+                            <ns0:goal>report-aggregate</ns0:goal>
+                        </ns0:goals>
+                        <ns0:phase>verify</ns0:phase>
+                    </ns0:execution>
+                </ns0:executions>
+            </ns0:plugin>
+        </ns0:plugins>
+    </ns0:build>
+
+
+</ns0:project>

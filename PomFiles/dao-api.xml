@@ -1,0 +1,57 @@
+<ns0:project xmlns:ns0="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <ns0:modelVersion>4.0.0</ns0:modelVersion>
+
+    <ns0:parent>
+        <ns0:groupId>com.gdn.x.search</ns0:groupId>
+        <ns0:artifactId>search-parent</ns0:artifactId>
+        <ns0:version>8.22.0-9-SNAPSHOT</ns0:version>
+    </ns0:parent>
+
+    <ns0:artifactId>search-dao-api</ns0:artifactId>
+    <ns0:packaging>jar</ns0:packaging>
+    <ns0:name>${project.groupId}-${project.artifactId}</ns0:name>
+
+    <ns0:properties>
+    </ns0:properties>
+
+    <ns0:build>
+        <ns0:finalName>${project.name}</ns0:finalName>
+    </ns0:build>
+
+    <ns0:dependencies>
+        <ns0:dependency>
+            <ns0:groupId>com.gdn.x.search</ns0:groupId>
+            <ns0:artifactId>search-model</ns0:artifactId>
+            <ns0:exclusions>
+                <ns0:exclusion>
+                    <ns0:artifactId>mongodb-driver</ns0:artifactId>
+                    <ns0:groupId>org.mongodb</ns0:groupId>
+                </ns0:exclusion>
+            </ns0:exclusions>
+        </ns0:dependency>
+        <ns0:dependency>
+            <ns0:groupId>org.hibernate.javax.persistence</ns0:groupId>
+            <ns0:artifactId>hibernate-jpa-2.1-api</ns0:artifactId>
+        </ns0:dependency>
+        <ns0:dependency>
+            <ns0:groupId>org.jboss.spec.javax.transaction</ns0:groupId>
+            <ns0:artifactId>jboss-transaction-api_1.2_spec</ns0:artifactId>
+            <ns0:scope>test</ns0:scope>
+        </ns0:dependency>
+        <ns0:dependency>
+            <ns0:groupId>org.hibernate</ns0:groupId>
+            <ns0:artifactId>hibernate-core</ns0:artifactId>
+            <ns0:scope>test</ns0:scope>
+        </ns0:dependency>
+        <ns0:dependency>
+            <ns0:groupId>org.hibernate</ns0:groupId>
+            <ns0:artifactId>hibernate-entitymanager</ns0:artifactId>
+            <ns0:scope>test</ns0:scope>
+        </ns0:dependency>
+        <ns0:dependency>
+            <ns0:groupId>org.hibernate</ns0:groupId>
+            <ns0:artifactId>hibernate-jpamodelgen</ns0:artifactId>
+            <ns0:scope>test</ns0:scope>
+        </ns0:dependency>
+    </ns0:dependencies>
+</ns0:project>

@@ -1,0 +1,3177 @@
+[
+  {
+    "GroupID": "com.gdn.x.search",
+    "ArtifactID": "search-parent",
+    "Version": "8.22.0-9-SNAPSHOT"
+  },
+  {
+    "GroupID": "org.mockito",
+    "ArtifactID": "mockito-inline",
+    "Version": "3.12.4"
+  },
+  {
+    "GroupID": "javax.xml.bind",
+    "ArtifactID": "jaxb-api",
+    "Version": "2.3.0"
+  },
+  {
+    "GroupID": "org.slf4j",
+    "ArtifactID": "jcl-over-slf4j",
+    "Version": "1.7.7"
+  },
+  {
+    "GroupID": "org.slf4j",
+    "ArtifactID": "slf4j-api",
+    "Version": "1.7.7"
+  },
+  {
+    "GroupID": "junit",
+    "ArtifactID": "junit",
+    "Version": "4.13.2"
+  },
+  {
+    "GroupID": "org.mockito",
+    "ArtifactID": "mockito-all",
+    "Version": "1.10.19"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-properties-migrator",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-starter-netflix-hystrix",
+    "Version": "2.2.2.RELEASE"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-starter-bootstrap",
+    "Version": "3.0.6"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-starter-test",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "org.junit.vintage",
+    "ArtifactID": "junit-vintage-engine",
+    "Version": "5.7.2"
+  },
+  {
+    "GroupID": "org.mockito",
+    "ArtifactID": "mockito-core",
+    "Version": "3.9.0"
+  },
+  {
+    "GroupID": "net.bytebuddy",
+    "ArtifactID": "byte-buddy",
+    "Version": "1.10.22"
+  },
+  {
+    "GroupID": "net.bytebuddy",
+    "ArtifactID": "byte-buddy-agent",
+    "Version": "1.10.22"
+  },
+  {
+    "GroupID": "org.objenesis",
+    "ArtifactID": "objenesis",
+    "Version": "3.2"
+  },
+  {
+    "GroupID": "org.hamcrest",
+    "ArtifactID": "hamcrest-core",
+    "Version": "1.3"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-configuration-metadata",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-context",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-aop",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-beans",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-expression",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "com.vaadin.external.google",
+    "ArtifactID": "android-json",
+    "Version": "0.0.20131108.vaadin1"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-starter",
+    "Version": "3.0.6"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-netflix-hystrix",
+    "Version": "2.2.2.RELEASE"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-netflix-ribbon",
+    "Version": "2.2.2.RELEASE"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-starter-netflix-archaius",
+    "Version": "2.2.2.RELEASE"
+  },
+  {
+    "GroupID": "com.netflix.hystrix",
+    "ArtifactID": "hystrix-core",
+    "Version": "1.5.18"
+  },
+  {
+    "GroupID": "com.netflix.hystrix",
+    "ArtifactID": "hystrix-serialization",
+    "Version": "1.5.18"
+  },
+  {
+    "GroupID": "com.netflix.hystrix",
+    "ArtifactID": "hystrix-metrics-event-stream",
+    "Version": "1.5.18"
+  },
+  {
+    "GroupID": "com.netflix.hystrix",
+    "ArtifactID": "hystrix-javanica",
+    "Version": "1.5.18"
+  },
+  {
+    "GroupID": "io.reactivex",
+    "ArtifactID": "rxjava-reactive-streams",
+    "Version": "1.2.1"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-context",
+    "Version": "3.0.6"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-commons",
+    "Version": "3.0.6"
+  },
+  {
+    "GroupID": "org.springframework.security",
+    "ArtifactID": "spring-security-rsa",
+    "Version": "1.0.11.RELEASE"
+  },
+  {
+    "GroupID": "org.springframework.security",
+    "ArtifactID": "spring-security-crypto",
+    "Version": "5.5.8"
+  },
+  {
+    "GroupID": "org.bouncycastle",
+    "ArtifactID": "bcpkix-jdk15on",
+    "Version": "1.69"
+  },
+  {
+    "GroupID": "org.bouncycastle",
+    "ArtifactID": "bcprov-jdk15on",
+    "Version": "1.69"
+  },
+  {
+    "GroupID": "org.bouncycastle",
+    "ArtifactID": "bcutil-jdk15on",
+    "Version": "1.69"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-autoconfigure",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-starter-aop",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-netflix-archaius",
+    "Version": "2.2.2.RELEASE"
+  },
+  {
+    "GroupID": "com.netflix.archaius",
+    "ArtifactID": "archaius-core",
+    "Version": "0.7.6"
+  },
+  {
+    "GroupID": "commons-configuration",
+    "ArtifactID": "commons-configuration",
+    "Version": "1.8"
+  },
+  {
+    "GroupID": "com.google.code.findbugs",
+    "ArtifactID": "jsr305",
+    "Version": "3.0.2"
+  },
+  {
+    "GroupID": "commons-lang",
+    "ArtifactID": "commons-lang",
+    "Version": "2.3"
+  },
+  {
+    "GroupID": "io.reactivex",
+    "ArtifactID": "rxjava",
+    "Version": "1.3.8"
+  },
+  {
+    "GroupID": "org.hdrhistogram",
+    "ArtifactID": "HdrHistogram",
+    "Version": "2.1.9"
+  },
+  {
+    "GroupID": "com.fasterxml.jackson.module",
+    "ArtifactID": "jackson-module-afterburner",
+    "Version": "2.12.6"
+  },
+  {
+    "GroupID": "com.fasterxml.jackson.core",
+    "ArtifactID": "jackson-core",
+    "Version": "2.14.1"
+  },
+  {
+    "GroupID": "com.fasterxml.jackson.core",
+    "ArtifactID": "jackson-databind",
+    "Version": "2.14.1"
+  },
+  {
+    "GroupID": "com.fasterxml.jackson.core",
+    "ArtifactID": "jackson-annotations",
+    "Version": "2.14.1"
+  },
+  {
+    "GroupID": "org.apache.commons",
+    "ArtifactID": "commons-lang3",
+    "Version": "3.3.2"
+  },
+  {
+    "GroupID": "org.ow2.asm",
+    "ArtifactID": "asm",
+    "Version": "5.0.4"
+  },
+  {
+    "GroupID": "org.aspectj",
+    "ArtifactID": "aspectjweaver",
+    "Version": "1.9.7"
+  },
+  {
+    "GroupID": "com.google.guava",
+    "ArtifactID": "guava",
+    "Version": "20.0"
+  },
+  {
+    "GroupID": "org.reactivestreams",
+    "ArtifactID": "reactive-streams",
+    "Version": "1.0.3"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-starter",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-test",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-test-autoconfigure",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "com.jayway.jsonpath",
+    "ArtifactID": "json-path",
+    "Version": "2.3.0"
+  },
+  {
+    "GroupID": "jakarta.xml.bind",
+    "ArtifactID": "jakarta.xml.bind-api",
+    "Version": "2.3.3"
+  },
+  {
+    "GroupID": "org.assertj",
+    "ArtifactID": "assertj-core",
+    "Version": "3.19.0"
+  },
+  {
+    "GroupID": "org.hamcrest",
+    "ArtifactID": "hamcrest",
+    "Version": "2.2"
+  },
+  {
+    "GroupID": "org.junit.jupiter",
+    "ArtifactID": "junit-jupiter",
+    "Version": "5.7.2"
+  },
+  {
+    "GroupID": "org.mockito",
+    "ArtifactID": "mockito-junit-jupiter",
+    "Version": "3.9.0"
+  },
+  {
+    "GroupID": "org.skyscreamer",
+    "ArtifactID": "jsonassert",
+    "Version": "1.5.0"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-core",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-test",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "org.xmlunit",
+    "ArtifactID": "xmlunit-core",
+    "Version": "2.8.4"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-starter-logging",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "jakarta.annotation",
+    "ArtifactID": "jakarta.annotation-api",
+    "Version": "1.3.5"
+  },
+  {
+    "GroupID": "org.yaml",
+    "ArtifactID": "snakeyaml",
+    "Version": "1.28"
+  },
+  {
+    "GroupID": "ch.qos.logback",
+    "ArtifactID": "logback-classic",
+    "Version": "1.2.3"
+  },
+  {
+    "GroupID": "org.apache.logging.log4j",
+    "ArtifactID": "log4j-to-slf4j",
+    "Version": "2.17.2"
+  },
+  {
+    "GroupID": "org.slf4j",
+    "ArtifactID": "jul-to-slf4j",
+    "Version": "1.7.36"
+  },
+  {
+    "GroupID": "ch.qos.logback",
+    "ArtifactID": "logback-core",
+    "Version": "1.2.3"
+  },
+  {
+    "GroupID": "org.apache.logging.log4j",
+    "ArtifactID": "log4j-api",
+    "Version": "2.17.2"
+  },
+  {
+    "GroupID": "net.minidev",
+    "ArtifactID": "json-smart",
+    "Version": "2.4.8"
+  },
+  {
+    "GroupID": "net.minidev",
+    "ArtifactID": "accessors-smart",
+    "Version": "2.4.8"
+  },
+  {
+    "GroupID": "jakarta.activation",
+    "ArtifactID": "jakarta.activation-api",
+    "Version": "1.2.2"
+  },
+  {
+    "GroupID": "org.junit.jupiter",
+    "ArtifactID": "junit-jupiter-api",
+    "Version": "5.7.2"
+  },
+  {
+    "GroupID": "org.junit.jupiter",
+    "ArtifactID": "junit-jupiter-params",
+    "Version": "5.7.2"
+  },
+  {
+    "GroupID": "org.junit.jupiter",
+    "ArtifactID": "junit-jupiter-engine",
+    "Version": "5.7.2"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-jcl",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "org.apiguardian",
+    "ArtifactID": "apiguardian-api",
+    "Version": "1.1.0"
+  },
+  {
+    "GroupID": "org.junit.platform",
+    "ArtifactID": "junit-platform-engine",
+    "Version": "1.7.2"
+  },
+  {
+    "GroupID": "org.opentest4j",
+    "ArtifactID": "opentest4j",
+    "Version": "1.2.0"
+  },
+  {
+    "GroupID": "org.junit.platform",
+    "ArtifactID": "junit-platform-commons",
+    "Version": "1.7.2"
+  },
+  {
+    "GroupID": "com.gdn.x.search",
+    "ArtifactID": "search-model",
+    "Version": "8.22.0-9-SNAPSHOT"
+  },
+  {
+    "GroupID": "org.hibernate.javax.persistence",
+    "ArtifactID": "hibernate-jpa-2.1-api",
+    "Version": "1.0.0.Final"
+  },
+  {
+    "GroupID": "org.jsoup",
+    "ArtifactID": "jsoup",
+    "Version": "1.7.2"
+  },
+  {
+    "GroupID": "com.gdn.x",
+    "ArtifactID": "business-partner-client-java-sdk",
+    "Version": "8.5.0-3"
+  },
+  {
+    "GroupID": "com.gdn.x",
+    "ArtifactID": "business-partner-service-api",
+    "Version": "8.5.0-3"
+  },
+  {
+    "GroupID": "com.univocity",
+    "ArtifactID": "univocity-parsers",
+    "Version": "2.5.8"
+  },
+  {
+    "GroupID": "org.projectlombok",
+    "ArtifactID": "lombok",
+    "Version": "1.18.0"
+  },
+  {
+    "GroupID": "com.gdn.x.shipping",
+    "ArtifactID": "shipping-domain-event",
+    "Version": "4.91.0-6"
+  },
+  {
+    "GroupID": "com.gdn.x.inventory",
+    "ArtifactID": "inventory-domain-event",
+    "Version": "6.57.0-4"
+  },
+  {
+    "GroupID": "com.gdn.x",
+    "ArtifactID": "fulfillmentcenter-rest-web-model",
+    "Version": "2.6.0-4"
+  },
+  {
+    "GroupID": "com.google.code.gson",
+    "ArtifactID": "gson",
+    "Version": "2.8.9"
+  },
+  {
+    "GroupID": "org.hibernate",
+    "ArtifactID": "hibernate-core",
+    "Version": "5.4.33"
+  },
+  {
+    "GroupID": "com.gdn",
+    "ArtifactID": "gdn-common-base",
+    "Version": "4.3.0-1"
+  },
+  {
+    "GroupID": "org.mongodb",
+    "ArtifactID": "bson",
+    "Version": "4.7.0"
+  },
+  {
+    "GroupID": "org.mongodb",
+    "ArtifactID": "mongodb-driver-core",
+    "Version": "4.7.0"
+  },
+  {
+    "GroupID": "org.mongodb",
+    "ArtifactID": "mongodb-driver-sync",
+    "Version": "4.7.0"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-starter-feign",
+    "Version": "1.4.6.RELEASE"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-starter-hystrix",
+    "Version": "1.4.6.RELEASE"
+  },
+  {
+    "GroupID": "com.gdn.aggregate.modules",
+    "ArtifactID": "module-domain-tradein",
+    "Version": "0.0.3"
+  },
+  {
+    "GroupID": "com.gdn.x.product",
+    "ArtifactID": "product-domain-event",
+    "Version": "2.117.0-4"
+  },
+  {
+    "GroupID": "com.gdn.x.product",
+    "ArtifactID": "product-rest-web-model",
+    "Version": "2.117.0-4"
+  },
+  {
+    "GroupID": "com.gdn.x",
+    "ArtifactID": "business-partner-rest-web-model",
+    "Version": "8.5.0-3"
+  },
+  {
+    "GroupID": "org.apache.httpcomponents",
+    "ArtifactID": "httpclient",
+    "Version": "4.5.5"
+  },
+  {
+    "GroupID": "org.apache.httpcomponents",
+    "ArtifactID": "fluent-hc",
+    "Version": "4.5.5"
+  },
+  {
+    "GroupID": "org.apache.httpcomponents",
+    "ArtifactID": "httpmime",
+    "Version": "4.5.5"
+  },
+  {
+    "GroupID": "com.google.cloud",
+    "ArtifactID": "google-cloud-bigquery",
+    "Version": "2.7.1"
+  },
+  {
+    "GroupID": "com.google.cloud",
+    "ArtifactID": "google-cloud-storage",
+    "Version": "2.10.0"
+  },
+  {
+    "GroupID": "com.gdn",
+    "ArtifactID": "gdn-common-helper",
+    "Version": "4.4.0-1"
+  },
+  {
+    "GroupID": "com.gdn.x.message",
+    "ArtifactID": "message-template-delivery-client-java-mq-sdk",
+    "Version": "1.35.0-3"
+  },
+  {
+    "GroupID": "com.gdn.partners.plugins",
+    "ArtifactID": "partners-helper-plugin",
+    "Version": "1.11.0"
+  },
+  {
+    "GroupID": "org.apache.httpcomponents",
+    "ArtifactID": "httpcore",
+    "Version": "4.4.15"
+  },
+  {
+    "GroupID": "org.springdoc",
+    "ArtifactID": "springdoc-openapi-ui",
+    "Version": "1.6.4"
+  },
+  {
+    "GroupID": "com.gdn.x",
+    "ArtifactID": "business-partner-commons",
+    "Version": "8.5.0-3"
+  },
+  {
+    "GroupID": "org.springdoc",
+    "ArtifactID": "springdoc-openapi-webmvc-core",
+    "Version": "1.6.4"
+  },
+  {
+    "GroupID": "org.webjars",
+    "ArtifactID": "swagger-ui",
+    "Version": "4.1.3"
+  },
+  {
+    "GroupID": "org.webjars",
+    "ArtifactID": "webjars-locator-core",
+    "Version": "0.46"
+  },
+  {
+    "GroupID": "io.github.classgraph",
+    "ArtifactID": "classgraph",
+    "Version": "4.8.138"
+  },
+  {
+    "GroupID": "org.springdoc",
+    "ArtifactID": "springdoc-openapi-common",
+    "Version": "1.6.4"
+  },
+  {
+    "GroupID": "io.swagger.core.v3",
+    "ArtifactID": "swagger-core",
+    "Version": "2.1.12"
+  },
+  {
+    "GroupID": "com.fasterxml.jackson.dataformat",
+    "ArtifactID": "jackson-dataformat-yaml",
+    "Version": "2.12.6"
+  },
+  {
+    "GroupID": "io.swagger.core.v3",
+    "ArtifactID": "swagger-annotations",
+    "Version": "2.1.12"
+  },
+  {
+    "GroupID": "io.swagger.core.v3",
+    "ArtifactID": "swagger-models",
+    "Version": "2.1.12"
+  },
+  {
+    "GroupID": "commons-codec",
+    "ArtifactID": "commons-codec",
+    "Version": "1.15"
+  },
+  {
+    "GroupID": "commons-logging",
+    "ArtifactID": "commons-logging",
+    "Version": "1.2"
+  },
+  {
+    "GroupID": "com.google.cloud",
+    "ArtifactID": "google-cloud-core",
+    "Version": "2.8.0"
+  },
+  {
+    "GroupID": "com.google.protobuf",
+    "ArtifactID": "protobuf-java-util",
+    "Version": "3.21.1"
+  },
+  {
+    "GroupID": "com.google.api.grpc",
+    "ArtifactID": "proto-google-common-protos",
+    "Version": "2.9.0"
+  },
+  {
+    "GroupID": "com.google.api.grpc",
+    "ArtifactID": "proto-google-iam-v1",
+    "Version": "1.4.1"
+  },
+  {
+    "GroupID": "com.google.auth",
+    "ArtifactID": "google-auth-library-credentials",
+    "Version": "1.7.0"
+  },
+  {
+    "GroupID": "com.google.http-client",
+    "ArtifactID": "google-http-client-gson",
+    "Version": "1.42.0"
+  },
+  {
+    "GroupID": "com.google.protobuf",
+    "ArtifactID": "protobuf-java",
+    "Version": "3.21.1"
+  },
+  {
+    "GroupID": "com.google.cloud",
+    "ArtifactID": "google-cloud-core-http",
+    "Version": "2.8.0"
+  },
+  {
+    "GroupID": "com.google.api-client",
+    "ArtifactID": "google-api-client",
+    "Version": "1.35.1"
+  },
+  {
+    "GroupID": "com.google.oauth-client",
+    "ArtifactID": "google-oauth-client",
+    "Version": "1.34.1"
+  },
+  {
+    "GroupID": "com.google.http-client",
+    "ArtifactID": "google-http-client-apache-v2",
+    "Version": "1.42.0"
+  },
+  {
+    "GroupID": "com.google.http-client",
+    "ArtifactID": "google-http-client-appengine",
+    "Version": "1.42.0"
+  },
+  {
+    "GroupID": "com.google.api",
+    "ArtifactID": "gax-httpjson",
+    "Version": "0.103.2"
+  },
+  {
+    "GroupID": "io.opencensus",
+    "ArtifactID": "opencensus-api",
+    "Version": "0.31.1"
+  },
+  {
+    "GroupID": "io.grpc",
+    "ArtifactID": "grpc-context",
+    "Version": "1.47.0"
+  },
+  {
+    "GroupID": "io.opencensus",
+    "ArtifactID": "opencensus-contrib-http-util",
+    "Version": "0.31.1"
+  },
+  {
+    "GroupID": "com.google.http-client",
+    "ArtifactID": "google-http-client-jackson2",
+    "Version": "1.42.0"
+  },
+  {
+    "GroupID": "javax.annotation",
+    "ArtifactID": "javax.annotation-api",
+    "Version": "1.3.2"
+  },
+  {
+    "GroupID": "com.google.http-client",
+    "ArtifactID": "google-http-client",
+    "Version": "1.42.0"
+  },
+  {
+    "GroupID": "com.google.j2objc",
+    "ArtifactID": "j2objc-annotations",
+    "Version": "1.3"
+  },
+  {
+    "GroupID": "org.checkerframework",
+    "ArtifactID": "checker-compat-qual",
+    "Version": "2.5.5"
+  },
+  {
+    "GroupID": "com.google.auth",
+    "ArtifactID": "google-auth-library-oauth2-http",
+    "Version": "1.7.0"
+  },
+  {
+    "GroupID": "com.google.apis",
+    "ArtifactID": "google-api-services-bigquery",
+    "Version": "v2-rev20211129-1.32.1"
+  },
+  {
+    "GroupID": "com.google.api",
+    "ArtifactID": "api-common",
+    "Version": "2.2.1"
+  },
+  {
+    "GroupID": "com.google.guava",
+    "ArtifactID": "failureaccess",
+    "Version": "1.0.1"
+  },
+  {
+    "GroupID": "com.google.guava",
+    "ArtifactID": "listenablefuture",
+    "Version": "9999.0-empty-to-avoid-conflict-with-guava"
+  },
+  {
+    "GroupID": "org.checkerframework",
+    "ArtifactID": "checker-qual",
+    "Version": "3.19.0"
+  },
+  {
+    "GroupID": "com.google.api",
+    "ArtifactID": "gax",
+    "Version": "2.12.0"
+  },
+  {
+    "GroupID": "org.threeten",
+    "ArtifactID": "threetenbp",
+    "Version": "1.6.0"
+  },
+  {
+    "GroupID": "com.google.errorprone",
+    "ArtifactID": "error_prone_annotations",
+    "Version": "2.10.0"
+  },
+  {
+    "GroupID": "com.google.apis",
+    "ArtifactID": "google-api-services-storage",
+    "Version": "v1-rev20220705-1.32.1"
+  },
+  {
+    "GroupID": "commons-io",
+    "ArtifactID": "commons-io",
+    "Version": "2.4"
+  },
+  {
+    "GroupID": "com.gdn.partners.plugins",
+    "ArtifactID": "partners-plugin-base",
+    "Version": "1.11.0"
+  },
+  {
+    "GroupID": "com.newrelic.agent.java",
+    "ArtifactID": "newrelic-api",
+    "Version": "4.11.0"
+  },
+  {
+    "GroupID": "com.gdn.x",
+    "ArtifactID": "business-partner-model",
+    "Version": "5.1.0-1"
+  },
+  {
+    "GroupID": "com.gdn.x",
+    "ArtifactID": "business-partner-domain-event",
+    "Version": "8.5.0-3"
+  },
+  {
+    "GroupID": "com.gdn.mta",
+    "ArtifactID": "x-web-notif-rest-web-model",
+    "Version": "3.22.0-5"
+  },
+  {
+    "GroupID": "net.karneim",
+    "ArtifactID": "pojobuilder",
+    "Version": "3.6.0"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-starter-data-redis",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "io.lettuce",
+    "ArtifactID": "lettuce-core",
+    "Version": "6.1.8.RELEASE"
+  },
+  {
+    "GroupID": "com.gdn.x.integration",
+    "ArtifactID": "gdn-base-integration",
+    "Version": "1.3.0"
+  },
+  {
+    "GroupID": "com.rabbitmq",
+    "ArtifactID": "amqp-client",
+    "Version": "5.12.0"
+  },
+  {
+    "GroupID": "com.gdn.partners",
+    "ArtifactID": "partners-dto",
+    "Version": "1.0.0"
+  },
+  {
+    "GroupID": "org.postgresql",
+    "ArtifactID": "postgresql",
+    "Version": "42.2.25"
+  },
+  {
+    "GroupID": "com.squareup",
+    "ArtifactID": "javawriter",
+    "Version": "2.5.0"
+  },
+  {
+    "GroupID": "com.gdn.seller.logistics",
+    "ArtifactID": "seller-logistics-service-enums",
+    "Version": "1.17.0-1"
+  },
+  {
+    "GroupID": "com.gdn.x.shipping",
+    "ArtifactID": "shipping-model",
+    "Version": "4.91.0-6"
+  },
+  {
+    "GroupID": "com.blibli.oss.helpers",
+    "ArtifactID": "java-common-helper",
+    "Version": "0.0.11"
+  },
+  {
+    "GroupID": "joda-time",
+    "ArtifactID": "joda-time",
+    "Version": "2.4"
+  },
+  {
+    "GroupID": "com.github.ben-manes.caffeine",
+    "ArtifactID": "caffeine",
+    "Version": "2.9.3"
+  },
+  {
+    "GroupID": "com.gdn",
+    "ArtifactID": "gdn-common-base-config",
+    "Version": "4.4.0-2"
+  },
+  {
+    "GroupID": "com.gdn.spring.boot.newrelic.reactor",
+    "ArtifactID": "newrelic-reactor",
+    "Version": "0.0.2"
+  },
+  {
+    "GroupID": "com.playtika.reactivefeign",
+    "ArtifactID": "feign-reactor-webclient",
+    "Version": "2.0.23"
+  },
+  {
+    "GroupID": "com.playtika.reactivefeign",
+    "ArtifactID": "feign-reactor-spring-configuration",
+    "Version": "2.0.23"
+  },
+  {
+    "GroupID": "com.playtika.reactivefeign",
+    "ArtifactID": "feign-reactor-core",
+    "Version": "2.0.23"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-webflux",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "io.projectreactor.netty",
+    "ArtifactID": "reactor-netty",
+    "Version": "1.0.19"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-all",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.projectreactor.netty",
+    "ArtifactID": "reactor-netty-core",
+    "Version": "1.0.19"
+  },
+  {
+    "GroupID": "io.projectreactor.netty",
+    "ArtifactID": "reactor-netty-http",
+    "Version": "1.0.19"
+  },
+  {
+    "GroupID": "io.projectreactor.netty.incubator",
+    "ArtifactID": "reactor-netty-incubator-quic",
+    "Version": "0.0.8"
+  },
+  {
+    "GroupID": "io.projectreactor.netty",
+    "ArtifactID": "reactor-netty-http-brave",
+    "Version": "1.0.19"
+  },
+  {
+    "GroupID": "io.netty.incubator",
+    "ArtifactID": "netty-incubator-codec-native-quic",
+    "Version": "linux-x86_64"
+  },
+  {
+    "GroupID": "io.netty.incubator",
+    "ArtifactID": "netty-incubator-codec-classes-quic",
+    "Version": "0.0.26.Final"
+  },
+  {
+    "GroupID": "io.zipkin.brave",
+    "ArtifactID": "brave-instrumentation-http",
+    "Version": "5.13.2"
+  },
+  {
+    "GroupID": "io.zipkin.brave",
+    "ArtifactID": "brave",
+    "Version": "5.13.2"
+  },
+  {
+    "GroupID": "io.zipkin.reporter2",
+    "ArtifactID": "zipkin-reporter-brave",
+    "Version": "2.16.1"
+  },
+  {
+    "GroupID": "io.zipkin.reporter2",
+    "ArtifactID": "zipkin-reporter",
+    "Version": "2.16.1"
+  },
+  {
+    "GroupID": "io.zipkin.zipkin2",
+    "ArtifactID": "zipkin",
+    "Version": "2.23.0"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-codec-dns",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-codec-haproxy",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-codec-http",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-codec-http2",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-codec-memcache",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-codec-mqtt",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-codec-redis",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-codec-smtp",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-codec-socks",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-codec-stomp",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-codec-xml",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-handler-proxy",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-resolver-dns",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-transport-rxtx",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-transport-sctp",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-transport-udt",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-transport-classes-epoll",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-transport-classes-kqueue",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-resolver-dns-classes-macos",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-transport-native-epoll",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-transport-native-kqueue",
+    "Version": "osx-aarch_64"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-resolver-dns-native-macos",
+    "Version": "osx-aarch_64"
+  },
+  {
+    "GroupID": "com.netflix.ribbon",
+    "ArtifactID": "ribbon-core",
+    "Version": "2.3.0"
+  },
+  {
+    "GroupID": "com.gdn.x.shipping",
+    "ArtifactID": "shipping-master-model",
+    "Version": "4.91.0-6"
+  },
+  {
+    "GroupID": "com.gdn.seller.logistics",
+    "ArtifactID": "seller-logistics-service-streaming-model",
+    "Version": "1.17.0-1"
+  },
+  {
+    "GroupID": "com.gdn.seller.logistics",
+    "ArtifactID": "seller-logistics-service-entity",
+    "Version": "1.17.0-1"
+  },
+  {
+    "GroupID": "org.hibernate",
+    "ArtifactID": "hibernate-entitymanager",
+    "Version": "5.4.33"
+  },
+  {
+    "GroupID": "com.ecwid.consul",
+    "ArtifactID": "consul-api",
+    "Version": "1.4.5"
+  },
+  {
+    "GroupID": "com.bettercloud",
+    "ArtifactID": "vault-java-driver",
+    "Version": "3.1.0"
+  },
+  {
+    "GroupID": "com.googlecode.xmemcached",
+    "ArtifactID": "xmemcached",
+    "Version": "2.4.7"
+  },
+  {
+    "GroupID": "org.springframework.kafka",
+    "ArtifactID": "spring-kafka",
+    "Version": "2.8.3"
+  },
+  {
+    "GroupID": "org.apache.kafka",
+    "ArtifactID": "kafka-clients",
+    "Version": "2.7.2"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-messaging",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-tx",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "org.springframework.retry",
+    "ArtifactID": "spring-retry",
+    "Version": "1.3.3"
+  },
+  {
+    "GroupID": "com.github.luben",
+    "ArtifactID": "zstd-jni",
+    "Version": "1.4.5-6"
+  },
+  {
+    "GroupID": "org.lz4",
+    "ArtifactID": "lz4-java",
+    "Version": "1.7.1"
+  },
+  {
+    "GroupID": "org.xerial.snappy",
+    "ArtifactID": "snappy-java",
+    "Version": "1.1.7.6"
+  },
+  {
+    "GroupID": "com.gdn",
+    "ArtifactID": "gdn-common-client-sdk",
+    "Version": "2.5.0-1"
+  },
+  {
+    "GroupID": "com.opencsv",
+    "ArtifactID": "opencsv",
+    "Version": "3.8"
+  },
+  {
+    "GroupID": "org.jboss.logging",
+    "ArtifactID": "jboss-logging",
+    "Version": "3.4.3.Final"
+  },
+  {
+    "GroupID": "javax.persistence",
+    "ArtifactID": "javax.persistence-api",
+    "Version": "2.2"
+  },
+  {
+    "GroupID": "org.javassist",
+    "ArtifactID": "javassist",
+    "Version": "3.27.0-GA"
+  },
+  {
+    "GroupID": "antlr",
+    "ArtifactID": "antlr",
+    "Version": "2.7.7"
+  },
+  {
+    "GroupID": "org.jboss.spec.javax.transaction",
+    "ArtifactID": "jboss-transaction-api_1.2_spec",
+    "Version": "1.0.0.Final"
+  },
+  {
+    "GroupID": "org.jboss",
+    "ArtifactID": "jandex",
+    "Version": "2.2.3.Final"
+  },
+  {
+    "GroupID": "com.fasterxml",
+    "ArtifactID": "classmate",
+    "Version": "1.5.1"
+  },
+  {
+    "GroupID": "javax.activation",
+    "ArtifactID": "javax.activation-api",
+    "Version": "1.2.0"
+  },
+  {
+    "GroupID": "org.dom4j",
+    "ArtifactID": "dom4j",
+    "Version": "2.1.3"
+  },
+  {
+    "GroupID": "org.hibernate.common",
+    "ArtifactID": "hibernate-commons-annotations",
+    "Version": "5.1.2.Final"
+  },
+  {
+    "GroupID": "org.glassfish.jaxb",
+    "ArtifactID": "jaxb-runtime",
+    "Version": "2.3.6"
+  },
+  {
+    "GroupID": "org.glassfish.jaxb",
+    "ArtifactID": "txw2",
+    "Version": "2.3.6"
+  },
+  {
+    "GroupID": "com.sun.istack",
+    "ArtifactID": "istack-commons-runtime",
+    "Version": "3.0.12"
+  },
+  {
+    "GroupID": "com.sun.activation",
+    "ArtifactID": "jakarta.activation",
+    "Version": "1.2.2"
+  },
+  {
+    "GroupID": "org.aspectj",
+    "ArtifactID": "aspectjrt",
+    "Version": "1.9.7"
+  },
+  {
+    "GroupID": "org.aspectj",
+    "ArtifactID": "aspectjtools",
+    "Version": "1.9.7"
+  },
+  {
+    "GroupID": "org.slf4j",
+    "ArtifactID": "log4j-over-slf4j",
+    "Version": "1.7.36"
+  },
+  {
+    "GroupID": "org.springframework.integration",
+    "ArtifactID": "spring-integration-core",
+    "Version": "5.5.12"
+  },
+  {
+    "GroupID": "org.springframework.integration",
+    "ArtifactID": "spring-integration-kafka",
+    "Version": "5.5.12"
+  },
+  {
+    "GroupID": "net.sf.dozer",
+    "ArtifactID": "dozer",
+    "Version": "5.5.1"
+  },
+  {
+    "GroupID": "com.esotericsoftware",
+    "ArtifactID": "kryo-shaded",
+    "Version": "3.0.3"
+  },
+  {
+    "GroupID": "redis.clients",
+    "ArtifactID": "jedis",
+    "Version": "3.6.3"
+  },
+  {
+    "GroupID": "org.springframework.data",
+    "ArtifactID": "spring-data-redis",
+    "Version": "2.5.11"
+  },
+  {
+    "GroupID": "commons-beanutils",
+    "ArtifactID": "commons-beanutils",
+    "Version": "1.9.2"
+  },
+  {
+    "GroupID": "org.hibernate",
+    "ArtifactID": "hibernate-jpamodelgen",
+    "Version": "5.4.33"
+  },
+  {
+    "GroupID": "org.springframework.data",
+    "ArtifactID": "spring-data-jpa",
+    "Version": "2.5.11"
+  },
+  {
+    "GroupID": "org.springframework.data",
+    "ArtifactID": "spring-data-mongodb",
+    "Version": "3.2.11"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-aspects",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "com.fasterxml.jackson.dataformat",
+    "ArtifactID": "jackson-dataformat-xml",
+    "Version": "2.12.6"
+  },
+  {
+    "GroupID": "ma.glasnost.orika",
+    "ArtifactID": "orika-core",
+    "Version": "1.4.6"
+  },
+  {
+    "GroupID": "org.springframework.data",
+    "ArtifactID": "spring-data-solr",
+    "Version": "1.4.2.RELEASE"
+  },
+  {
+    "GroupID": "io.projectreactor",
+    "ArtifactID": "reactor-core",
+    "Version": "3.4.18"
+  },
+  {
+    "GroupID": "com.esotericsoftware",
+    "ArtifactID": "minlog",
+    "Version": "1.3.0"
+  },
+  {
+    "GroupID": "org.apache.commons",
+    "ArtifactID": "commons-pool2",
+    "Version": "2.9.0"
+  },
+  {
+    "GroupID": "org.springframework.data",
+    "ArtifactID": "spring-data-keyvalue",
+    "Version": "2.5.11"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-oxm",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-context-support",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "commons-collections",
+    "ArtifactID": "commons-collections",
+    "Version": "3.2.1"
+  },
+  {
+    "GroupID": "org.springframework.data",
+    "ArtifactID": "spring-data-commons",
+    "Version": "2.5.11"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-orm",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-jdbc",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "com.fasterxml.jackson.module",
+    "ArtifactID": "jackson-module-jaxb-annotations",
+    "Version": "2.12.6"
+  },
+  {
+    "GroupID": "org.codehaus.woodstox",
+    "ArtifactID": "stax2-api",
+    "Version": "4.2.1"
+  },
+  {
+    "GroupID": "com.fasterxml.woodstox",
+    "ArtifactID": "woodstox-core",
+    "Version": "6.2.4"
+  },
+  {
+    "GroupID": "com.thoughtworks.paranamer",
+    "ArtifactID": "paranamer",
+    "Version": "2.7"
+  },
+  {
+    "GroupID": "com.googlecode.concurrentlinkedhashmap",
+    "ArtifactID": "concurrentlinkedhashmap-lru",
+    "Version": "1.2_jdk5"
+  },
+  {
+    "GroupID": "com.carrotsearch",
+    "ArtifactID": "java-sizeof",
+    "Version": "0.0.4"
+  },
+  {
+    "GroupID": "org.apache.httpcomponents",
+    "ArtifactID": "httpclient-cache",
+    "Version": "4.5.5"
+  },
+  {
+    "GroupID": "org.apache.solr",
+    "ArtifactID": "solr-solrj",
+    "Version": "8.11.1"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-buffer",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-codec",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-common",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-handler",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-resolver",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-transport",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "io.netty",
+    "ArtifactID": "netty-transport-native-unix-common",
+    "Version": "4.1.77.Final"
+  },
+  {
+    "GroupID": "org.apache.commons",
+    "ArtifactID": "commons-math3",
+    "Version": "3.6.1"
+  },
+  {
+    "GroupID": "org.apache.zookeeper",
+    "ArtifactID": "zookeeper",
+    "Version": "3.6.2"
+  },
+  {
+    "GroupID": "org.apache.zookeeper",
+    "ArtifactID": "zookeeper-jute",
+    "Version": "3.6.2"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-alpn-client",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-alpn-java-client",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-client",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-http",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-io",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-util",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty.http2",
+    "ArtifactID": "http2-client",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty.http2",
+    "ArtifactID": "http2-common",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty.http2",
+    "ArtifactID": "http2-hpack",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty.http2",
+    "ArtifactID": "http2-http-client-transport",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.mongodb",
+    "ArtifactID": "bson-record-codec",
+    "Version": "4.7.0"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-starter-openfeign",
+    "Version": "3.0.7"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-openfeign-core",
+    "Version": "3.0.7"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-web",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "io.github.openfeign",
+    "ArtifactID": "feign-core",
+    "Version": "10.12"
+  },
+  {
+    "GroupID": "io.github.openfeign",
+    "ArtifactID": "feign-slf4j",
+    "Version": "10.12"
+  },
+  {
+    "GroupID": "io.github.openfeign.form",
+    "ArtifactID": "feign-form-spring",
+    "Version": "3.8.0"
+  },
+  {
+    "GroupID": "io.github.openfeign.form",
+    "ArtifactID": "feign-form",
+    "Version": "3.8.0"
+  },
+  {
+    "GroupID": "commons-fileupload",
+    "ArtifactID": "commons-fileupload",
+    "Version": "1.3.1"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-starter-data-mongodb",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "com.gdn.aggregate.modules",
+    "ArtifactID": "aggregate-platform-domain",
+    "Version": "0.0.5"
+  },
+  {
+    "GroupID": "com.blibli.oss",
+    "ArtifactID": "command-plugin",
+    "Version": "0.0.5"
+  },
+  {
+    "GroupID": "com.blibli.oss",
+    "ArtifactID": "common-plugin",
+    "Version": "0.0.1"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-starter-validation",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "com.gdn.aggregate.modules",
+    "ArtifactID": "module-domain-business-partner",
+    "Version": "0.0.10"
+  },
+  {
+    "GroupID": "com.gdn.aggregate.modules",
+    "ArtifactID": "module-domain-product",
+    "Version": "0.0.14"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-starter-web",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-starter-json",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-starter-tomcat",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "org.springframework",
+    "ArtifactID": "spring-webmvc",
+    "Version": "5.3.20"
+  },
+  {
+    "GroupID": "com.fasterxml.jackson.datatype",
+    "ArtifactID": "jackson-datatype-jdk8",
+    "Version": "2.12.6"
+  },
+  {
+    "GroupID": "com.fasterxml.jackson.datatype",
+    "ArtifactID": "jackson-datatype-jsr310",
+    "Version": "2.12.6"
+  },
+  {
+    "GroupID": "com.fasterxml.jackson.module",
+    "ArtifactID": "jackson-module-parameter-names",
+    "Version": "2.12.6"
+  },
+  {
+    "GroupID": "org.apache.tomcat.embed",
+    "ArtifactID": "tomcat-embed-core",
+    "Version": "9.0.63"
+  },
+  {
+    "GroupID": "org.apache.tomcat.embed",
+    "ArtifactID": "tomcat-embed-websocket",
+    "Version": "9.0.63"
+  },
+  {
+    "GroupID": "org.apache.tomcat.embed",
+    "ArtifactID": "tomcat-embed-el",
+    "Version": "9.0.63"
+  },
+  {
+    "GroupID": "org.hibernate.validator",
+    "ArtifactID": "hibernate-validator",
+    "Version": "6.2.3.Final"
+  },
+  {
+    "GroupID": "jakarta.validation",
+    "ArtifactID": "jakarta.validation-api",
+    "Version": "2.0.2"
+  },
+  {
+    "GroupID": "com.blibli.oss",
+    "ArtifactID": "kafka-plugin",
+    "Version": "0.0.7"
+  },
+  {
+    "GroupID": "com.gdn.aggregate.modules",
+    "ArtifactID": "module-domain-pcb",
+    "Version": "0.0.7"
+  },
+  {
+    "GroupID": "com.gdn.x.product",
+    "ArtifactID": "product-model",
+    "Version": "2.114.0-33"
+  },
+  {
+    "GroupID": "org.openjdk.jmh",
+    "ArtifactID": "jmh-core",
+    "Version": "1.14"
+  },
+  {
+    "GroupID": "net.sf.jopt-simple",
+    "ArtifactID": "jopt-simple",
+    "Version": "5.0.2"
+  },
+  {
+    "GroupID": "com.gdn.x.product",
+    "ArtifactID": "product-master-model",
+    "Version": "2.117.0-4"
+  },
+  {
+    "GroupID": "com.gdn.partners",
+    "ArtifactID": "product-analytics-web-model",
+    "Version": "0.3.0-1"
+  },
+  {
+    "GroupID": "com.gdn.partners",
+    "ArtifactID": "partners-core",
+    "Version": "2.0.6"
+  },
+  {
+    "GroupID": "com.gdn.x",
+    "ArtifactID": "base-rest-web-jar",
+    "Version": "8.0.0-2"
+  },
+  {
+    "GroupID": "javax.servlet",
+    "ArtifactID": "jstl",
+    "Version": "1.2"
+  },
+  {
+    "GroupID": "org.javasimon",
+    "ArtifactID": "javasimon-core",
+    "Version": "3.5.0"
+  },
+  {
+    "GroupID": "org.javasimon",
+    "ArtifactID": "javasimon-javaee",
+    "Version": "3.5.0"
+  },
+  {
+    "GroupID": "org.javasimon",
+    "ArtifactID": "javasimon-spring",
+    "Version": "3.5.0"
+  },
+  {
+    "GroupID": "org.javasimon",
+    "ArtifactID": "javasimon-console-embed",
+    "Version": "3.5.0"
+  },
+  {
+    "GroupID": "com.gdn.x.search",
+    "ArtifactID": "search-dao-api",
+    "Version": "8.22.0-9-SNAPSHOT"
+  },
+  {
+    "GroupID": "com.gdn.x.search",
+    "ArtifactID": "search-dao-mongodb",
+    "Version": "8.22.0-9-SNAPSHOT"
+  },
+  {
+    "GroupID": "javax.inject",
+    "ArtifactID": "javax.inject",
+    "Version": "1"
+  },
+  {
+    "GroupID": "com.gdn.x.search",
+    "ArtifactID": "search-rest-web-model",
+    "Version": "8.22.0-9-SNAPSHOT"
+  },
+  {
+    "GroupID": "com.gdn.x.search",
+    "ArtifactID": "search-service-api",
+    "Version": "8.22.0-9-SNAPSHOT"
+  },
+  {
+    "GroupID": "com.gdn.x.campaign",
+    "ArtifactID": "campaign-client-java-sdk",
+    "Version": "1.25.0-6"
+  },
+  {
+    "GroupID": "com.gdn.search.search-service",
+    "ArtifactID": "search-service-model",
+    "Version": "4.20.0-4"
+  },
+  {
+    "GroupID": "org.freemarker",
+    "ArtifactID": "freemarker",
+    "Version": "2.3.31"
+  },
+  {
+    "GroupID": "com.gdn.x.shipping",
+    "ArtifactID": "shipping-service-client-java-sdk",
+    "Version": "4.91.0-6"
+  },
+  {
+    "GroupID": "com.gdn.x",
+    "ArtifactID": "buybox-web-model",
+    "Version": "0.0.1-1"
+  },
+  {
+    "GroupID": "org.scala-lang",
+    "ArtifactID": "scala-library",
+    "Version": "2.10.4"
+  },
+  {
+    "GroupID": "com.gdn.brs.api",
+    "ArtifactID": "brs-api-web-model",
+    "Version": "3.15.0-3"
+  },
+  {
+    "GroupID": "io.milvus",
+    "ArtifactID": "milvus-sdk-java",
+    "Version": "2.2.2"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-backward-codecs",
+    "Version": "8.11.1"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-suggest",
+    "Version": "8.11.1"
+  },
+  {
+    "GroupID": "com.gdn.brs.api",
+    "ArtifactID": "brs-api-master-model",
+    "Version": "3.15.0-3"
+  },
+  {
+    "GroupID": "io.springfox",
+    "ArtifactID": "springfox-swagger2",
+    "Version": "2.9.2"
+  },
+  {
+    "GroupID": "io.swagger",
+    "ArtifactID": "swagger-annotations",
+    "Version": "1.5.20"
+  },
+  {
+    "GroupID": "io.swagger",
+    "ArtifactID": "swagger-models",
+    "Version": "1.5.20"
+  },
+  {
+    "GroupID": "io.springfox",
+    "ArtifactID": "springfox-spi",
+    "Version": "2.9.2"
+  },
+  {
+    "GroupID": "io.springfox",
+    "ArtifactID": "springfox-schema",
+    "Version": "2.9.2"
+  },
+  {
+    "GroupID": "io.springfox",
+    "ArtifactID": "springfox-swagger-common",
+    "Version": "2.9.2"
+  },
+  {
+    "GroupID": "io.springfox",
+    "ArtifactID": "springfox-spring-web",
+    "Version": "2.9.2"
+  },
+  {
+    "GroupID": "org.springframework.plugin",
+    "ArtifactID": "spring-plugin-core",
+    "Version": "1.2.0.RELEASE"
+  },
+  {
+    "GroupID": "org.springframework.plugin",
+    "ArtifactID": "spring-plugin-metadata",
+    "Version": "1.2.0.RELEASE"
+  },
+  {
+    "GroupID": "org.mapstruct",
+    "ArtifactID": "mapstruct",
+    "Version": "1.2.0.Final"
+  },
+  {
+    "GroupID": "io.springfox",
+    "ArtifactID": "springfox-core",
+    "Version": "2.9.2"
+  },
+  {
+    "GroupID": "io.grpc",
+    "ArtifactID": "grpc-netty-shaded",
+    "Version": "1.38.0"
+  },
+  {
+    "GroupID": "io.grpc",
+    "ArtifactID": "grpc-protobuf",
+    "Version": "1.38.0"
+  },
+  {
+    "GroupID": "io.grpc",
+    "ArtifactID": "grpc-stub",
+    "Version": "1.38.0"
+  },
+  {
+    "GroupID": "org.apache.commons",
+    "ArtifactID": "commons-collections4",
+    "Version": "4.4"
+  },
+  {
+    "GroupID": "com.squareup.okhttp3",
+    "ArtifactID": "okhttp",
+    "Version": "3.14.9"
+  },
+  {
+    "GroupID": "org.codehaus.plexus",
+    "ArtifactID": "plexus-utils",
+    "Version": "3.0.20"
+  },
+  {
+    "GroupID": "io.grpc",
+    "ArtifactID": "grpc-core",
+    "Version": "1.38.0"
+  },
+  {
+    "GroupID": "com.google.android",
+    "ArtifactID": "annotations",
+    "Version": "4.1.1.4"
+  },
+  {
+    "GroupID": "io.perfmark",
+    "ArtifactID": "perfmark-api",
+    "Version": "0.23.0"
+  },
+  {
+    "GroupID": "io.grpc",
+    "ArtifactID": "grpc-api",
+    "Version": "1.38.0"
+  },
+  {
+    "GroupID": "io.grpc",
+    "ArtifactID": "grpc-protobuf-lite",
+    "Version": "1.38.0"
+  },
+  {
+    "GroupID": "org.codehaus.mojo",
+    "ArtifactID": "animal-sniffer-annotations",
+    "Version": "1.19"
+  },
+  {
+    "GroupID": "com.squareup.okio",
+    "ArtifactID": "okio",
+    "Version": "1.17.2"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-core",
+    "Version": "8.11.1"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-analyzers-common",
+    "Version": "8.11.1"
+  },
+  {
+    "GroupID": "com.gdn.x.paymentservice",
+    "ArtifactID": "payment-service-master-model",
+    "Version": "4.2.0-4"
+  },
+  {
+    "GroupID": "com.gdn.x.search",
+    "ArtifactID": "search-integration",
+    "Version": "8.22.0-9-SNAPSHOT"
+  },
+  {
+    "GroupID": "com.gdn.x.search",
+    "ArtifactID": "search-service-impl",
+    "Version": "8.22.0-9-SNAPSHOT"
+  },
+  {
+    "GroupID": "com.gdn.x.promotion",
+    "ArtifactID": "promotion-rest-web-model",
+    "Version": "1.120.0-6"
+  },
+  {
+    "GroupID": "org.jetbrains",
+    "ArtifactID": "annotations",
+    "Version": "13.0"
+  },
+  {
+    "GroupID": "com.gdn.partners",
+    "ArtifactID": "product-pricing-web-model",
+    "Version": "0.39.0-8"
+  },
+  {
+    "GroupID": "one.util",
+    "ArtifactID": "streamex",
+    "Version": "0.6.6"
+  },
+  {
+    "GroupID": "org.apache.poi",
+    "ArtifactID": "poi",
+    "Version": "3.15"
+  },
+  {
+    "GroupID": "org.apache.poi",
+    "ArtifactID": "poi-ooxml",
+    "Version": "3.15"
+  },
+  {
+    "GroupID": "org.apache.poi",
+    "ArtifactID": "poi-ooxml-schemas",
+    "Version": "3.15"
+  },
+  {
+    "GroupID": "com.netflix.netflix-commons",
+    "ArtifactID": "netflix-commons-util",
+    "Version": "0.1.1"
+  },
+  {
+    "GroupID": "dom4j",
+    "ArtifactID": "dom4j",
+    "Version": "1.6.1"
+  },
+  {
+    "GroupID": "com.gdn.x.campaign",
+    "ArtifactID": "campaign-domain-event",
+    "Version": "2.36.0-8"
+  },
+  {
+    "GroupID": "com.gdn.x.promotion",
+    "ArtifactID": "promotion-model-event",
+    "Version": "1.120.0-6"
+  },
+  {
+    "GroupID": "com.gdn.partners",
+    "ArtifactID": "product-pricing-streaming-model",
+    "Version": "0.39.0-8"
+  },
+  {
+    "GroupID": "com.gdn.x.productcategorybase",
+    "ArtifactID": "product-category-base-domain-event",
+    "Version": "4.91.0-8"
+  },
+  {
+    "GroupID": "com.gdn.x.paymentservice",
+    "ArtifactID": "payment-service-rest-web-model",
+    "Version": "4.2.0-4"
+  },
+  {
+    "GroupID": "com.gdn.x.productcategorybase",
+    "ArtifactID": "product-category-base-rest-web-model",
+    "Version": "4.91.0-8"
+  },
+  {
+    "GroupID": "com.gdn.x.product-review",
+    "ArtifactID": "product-review-service-client-sdk",
+    "Version": "2.30.0-12"
+  },
+  {
+    "GroupID": "com.gdn.x.product-review",
+    "ArtifactID": "product-review-domain-event",
+    "Version": "2.30.0-12"
+  },
+  {
+    "GroupID": "com.gdn.geneva.analytics",
+    "ArtifactID": "analytics-client-java-sdk",
+    "Version": "4.1.0-2"
+  },
+  {
+    "GroupID": "com.gdn.x.bpservice",
+    "ArtifactID": "bpservice-domain-event",
+    "Version": "4.0.0-1"
+  },
+  {
+    "GroupID": "com.gdn.x.bpservice",
+    "ArtifactID": "bpservice-client-java-sdk",
+    "Version": "4.0.0-1"
+  },
+  {
+    "GroupID": "org.apache.commons",
+    "ArtifactID": "commons-csv",
+    "Version": "1.3"
+  },
+  {
+    "GroupID": "org.languagetool",
+    "ArtifactID": "languagetool",
+    "Version": "2.0.1"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-starter-actuator",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "com.cybozu.labs",
+    "ArtifactID": "langdetect",
+    "Version": "1.1-20120112"
+  },
+  {
+    "GroupID": "org.atteo",
+    "ArtifactID": "evo-inflector",
+    "Version": "1.2.2"
+  },
+  {
+    "GroupID": "org.codehaus.jackson",
+    "ArtifactID": "jackson-mapper-asl",
+    "Version": "1.9.13"
+  },
+  {
+    "GroupID": "com.gdn.ext.catalog",
+    "ArtifactID": "ext-catalog-client-java-sdk",
+    "Version": "1.21.0-11"
+  },
+  {
+    "GroupID": "com.gdn.ext.catalog",
+    "ArtifactID": "ext-catalog-model",
+    "Version": "1.21.0-11"
+  },
+  {
+    "GroupID": "com.google.guava",
+    "ArtifactID": "guava-testlib",
+    "Version": "20.0"
+  },
+  {
+    "GroupID": "com.gdn.x",
+    "ArtifactID": "buybox-streaming-model",
+    "Version": "0.0.1-1"
+  },
+  {
+    "GroupID": "com.gdn.x.siva",
+    "ArtifactID": "siva-rest-web-model",
+    "Version": "4.30.0-21"
+  },
+  {
+    "GroupID": "com.gdn.oxford",
+    "ArtifactID": "oxford-streaming-model",
+    "Version": "1.48.0-4"
+  },
+  {
+    "GroupID": "com.gdn.oxford",
+    "ArtifactID": "oxford-web-model",
+    "Version": "1.48.0-4"
+  },
+  {
+    "GroupID": "com.gdn.partners",
+    "ArtifactID": "merchant-voucher-web-model",
+    "Version": "2.35.0-4"
+  },
+  {
+    "GroupID": "com.gdn.partners",
+    "ArtifactID": "merchant-voucher-streaming-model",
+    "Version": "2.35.0-4"
+  },
+  {
+    "GroupID": "com.google.http-client",
+    "ArtifactID": "google-http-client-jackson",
+    "Version": "1.23.0"
+  },
+  {
+    "GroupID": "com.google.apis",
+    "ArtifactID": "google-api-services-dataproc",
+    "Version": "v1-rev76-1.23.0"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-queryparser",
+    "Version": "8.11.1"
+  },
+  {
+    "GroupID": "org.elasticsearch",
+    "ArtifactID": "elasticsearch",
+    "Version": "7.12.1"
+  },
+  {
+    "GroupID": "com.gdn.trade.in.catalog",
+    "ArtifactID": "trade-in-catalog-web-model",
+    "Version": "1.54.0-1"
+  },
+  {
+    "GroupID": "com.gdn.trade.in.catalog",
+    "ArtifactID": "trade-in-catalog-domain-event",
+    "Version": "1.54.0-1"
+  },
+  {
+    "GroupID": "com.gdn.x.promotion",
+    "ArtifactID": "promotion-master-model",
+    "Version": "1.120.0-6"
+  },
+  {
+    "GroupID": "com.gdn.x.promotion",
+    "ArtifactID": "promotion-model",
+    "Version": "1.120.0-6"
+  },
+  {
+    "GroupID": "com.gdn",
+    "ArtifactID": "index-annotation",
+    "Version": "1.0.1"
+  },
+  {
+    "GroupID": "com.wordnik",
+    "ArtifactID": "swagger-annotations",
+    "Version": "1.3.11"
+  },
+  {
+    "GroupID": "com.github.virtuald",
+    "ArtifactID": "curvesapi",
+    "Version": "1.04"
+  },
+  {
+    "GroupID": "org.apache.xmlbeans",
+    "ArtifactID": "xmlbeans",
+    "Version": "2.6.0"
+  },
+  {
+    "GroupID": "stax",
+    "ArtifactID": "stax-api",
+    "Version": "1.0.1"
+  },
+  {
+    "GroupID": "xml-apis",
+    "ArtifactID": "xml-apis",
+    "Version": "1.4.01"
+  },
+  {
+    "GroupID": "com.gdn.x.campaign",
+    "ArtifactID": "campaign-model",
+    "Version": "2.36.0-8"
+  },
+  {
+    "GroupID": "com.gdn.x.campaign",
+    "ArtifactID": "campaign-service-api",
+    "Version": "2.36.0-8"
+  },
+  {
+    "GroupID": "com.gdn.x.inventory",
+    "ArtifactID": "inventory-rest-web-model",
+    "Version": "6.52.0-1"
+  },
+  {
+    "GroupID": "com.gdn.x.message",
+    "ArtifactID": "message-template-delivery-model",
+    "Version": "1.43.0-1"
+  },
+  {
+    "GroupID": "com.gdn.x.message",
+    "ArtifactID": "message-template-delivery-mq-model",
+    "Version": "1.43.0-1"
+  },
+  {
+    "GroupID": "com.gdn.mta",
+    "ArtifactID": "x-web-notif-model",
+    "Version": "3.22.0-5"
+  },
+  {
+    "GroupID": "com.gdn.x.campaign",
+    "ArtifactID": "campaign-master-model",
+    "Version": "1.39.0-5"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-starter-data-jpa",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-starter-jdbc",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "jakarta.transaction",
+    "ArtifactID": "jakarta.transaction-api",
+    "Version": "1.3.3"
+  },
+  {
+    "GroupID": "jakarta.persistence",
+    "ArtifactID": "jakarta.persistence-api",
+    "Version": "2.2.3"
+  },
+  {
+    "GroupID": "com.zaxxer",
+    "ArtifactID": "HikariCP",
+    "Version": "4.0.3"
+  },
+  {
+    "GroupID": "com.gdn.x.campaign",
+    "ArtifactID": "campaign-dao-api",
+    "Version": "2.36.0-8"
+  },
+  {
+    "GroupID": "com.gdn.partners",
+    "ArtifactID": "product-pricing-model",
+    "Version": "0.39.0-8"
+  },
+  {
+    "GroupID": "com.gdn.x.neo.order",
+    "ArtifactID": "order-client-java-sdk",
+    "Version": "1.28.0-2"
+  },
+  {
+    "GroupID": "com.gdn.x.history",
+    "ArtifactID": "history-rest-web-model",
+    "Version": "1.7.0-6"
+  },
+  {
+    "GroupID": "com.ryantenney.metrics",
+    "ArtifactID": "metrics-spring",
+    "Version": "3.1.1"
+  },
+  {
+    "GroupID": "io.dropwizard.metrics",
+    "ArtifactID": "metrics-core",
+    "Version": "4.1.31"
+  },
+  {
+    "GroupID": "com.codahale.metrics",
+    "ArtifactID": "metrics-servlets",
+    "Version": "3.0.2"
+  },
+  {
+    "GroupID": "io.dropwizard.metrics",
+    "ArtifactID": "metrics-healthchecks",
+    "Version": "4.1.31"
+  },
+  {
+    "GroupID": "io.dropwizard.metrics",
+    "ArtifactID": "metrics-annotation",
+    "Version": "4.1.31"
+  },
+  {
+    "GroupID": "com.codahale.metrics",
+    "ArtifactID": "metrics-core",
+    "Version": "3.0.2"
+  },
+  {
+    "GroupID": "com.codahale.metrics",
+    "ArtifactID": "metrics-healthchecks",
+    "Version": "3.0.2"
+  },
+  {
+    "GroupID": "com.codahale.metrics",
+    "ArtifactID": "metrics-json",
+    "Version": "3.0.2"
+  },
+  {
+    "GroupID": "com.codahale.metrics",
+    "ArtifactID": "metrics-jvm",
+    "Version": "3.0.2"
+  },
+  {
+    "GroupID": "com.gdn.x.auth",
+    "ArtifactID": "auth-rest-web-model",
+    "Version": "1.9.0-5"
+  },
+  {
+    "GroupID": "com.sun.xml.bind",
+    "ArtifactID": "jaxb-core",
+    "Version": "2.3.0"
+  },
+  {
+    "GroupID": "com.sun.xml.bind",
+    "ArtifactID": "jaxb-impl",
+    "Version": "2.3.0"
+  },
+  {
+    "GroupID": "com.gdn.paymenttoken",
+    "ArtifactID": "paymenttoken-client",
+    "Version": "1.6.0-1"
+  },
+  {
+    "GroupID": "com.gdn.x.auth",
+    "ArtifactID": "auth-master-model",
+    "Version": "1.9.0-5"
+  },
+  {
+    "GroupID": "com.fasterxml.jackson.datatype",
+    "ArtifactID": "jackson-datatype-joda",
+    "Version": "2.12.6"
+  },
+  {
+    "GroupID": "com.google.apis",
+    "ArtifactID": "google-api-services-oauth2",
+    "Version": "v2-rev124-1.22.0"
+  },
+  {
+    "GroupID": "com.gdn.x.productcategorybase",
+    "ArtifactID": "product-category-base-model",
+    "Version": "4.91.0-8"
+  },
+  {
+    "GroupID": "io.github.openfeign",
+    "ArtifactID": "feign-jackson",
+    "Version": "10.12"
+  },
+  {
+    "GroupID": "io.github.openfeign",
+    "ArtifactID": "feign-hystrix",
+    "Version": "10.12"
+  },
+  {
+    "GroupID": "io.github.openfeign",
+    "ArtifactID": "feign-okhttp",
+    "Version": "10.12"
+  },
+  {
+    "GroupID": "org.apache.tomcat",
+    "ArtifactID": "tomcat-jdbc",
+    "Version": "7.0.85"
+  },
+  {
+    "GroupID": "org.apache.tomcat",
+    "ArtifactID": "tomcat-juli",
+    "Version": "7.0.85"
+  },
+  {
+    "GroupID": "com.gdn.x.product-review",
+    "ArtifactID": "product-review-rest-web-model",
+    "Version": "2.30.0-12"
+  },
+  {
+    "GroupID": "com.gdn.x.product-review",
+    "ArtifactID": "product-review-service-api",
+    "Version": "2.30.0-12"
+  },
+  {
+    "GroupID": "com.gdn.ext.catalog",
+    "ArtifactID": "ext-catalog-domain-event",
+    "Version": "1.11.0-2"
+  },
+  {
+    "GroupID": "com.gdn.x.product-review",
+    "ArtifactID": "product-review-model",
+    "Version": "2.30.0-12"
+  },
+  {
+    "GroupID": "com.gdn.x.product-review",
+    "ArtifactID": "product-review-dao-api",
+    "Version": "2.30.0-12"
+  },
+  {
+    "GroupID": "com.gdn.x.product-review",
+    "ArtifactID": "product-review-master-model",
+    "Version": "2.30.0-12"
+  },
+  {
+    "GroupID": "com.github.mongobee",
+    "ArtifactID": "mongobee",
+    "Version": "0.10"
+  },
+  {
+    "GroupID": "org.json",
+    "ArtifactID": "json",
+    "Version": "20151123"
+  },
+  {
+    "GroupID": "org.reflections",
+    "ArtifactID": "reflections",
+    "Version": "0.9.9"
+  },
+  {
+    "GroupID": "org.jongo",
+    "ArtifactID": "jongo",
+    "Version": "1.1"
+  },
+  {
+    "GroupID": "com.google.code.findbugs",
+    "ArtifactID": "annotations",
+    "Version": "2.0.1"
+  },
+  {
+    "GroupID": "de.undercouch",
+    "ArtifactID": "bson4jackson",
+    "Version": "2.4.0"
+  },
+  {
+    "GroupID": "com.gdn.x.bpservice",
+    "ArtifactID": "bpservice-rest-web-model",
+    "Version": "4.0.0-1"
+  },
+  {
+    "GroupID": "com.google.code",
+    "ArtifactID": "cjftransform",
+    "Version": "1.0.1"
+  },
+  {
+    "GroupID": "commons-validator",
+    "ArtifactID": "commons-validator",
+    "Version": "1.3.1"
+  },
+  {
+    "GroupID": "com.googlecode.ictclas4j",
+    "ArtifactID": "ictclas4j",
+    "Version": "1.0.1"
+  },
+  {
+    "GroupID": "net.java.dev.jna",
+    "ArtifactID": "jna",
+    "Version": "3.4.0"
+  },
+  {
+    "GroupID": "de.abelssoft",
+    "ArtifactID": "jwordsplitter",
+    "Version": "3.4"
+  },
+  {
+    "GroupID": "org.carrot2",
+    "ArtifactID": "morfologik-fsa",
+    "Version": "1.5.4"
+  },
+  {
+    "GroupID": "org.carrot2",
+    "ArtifactID": "morfologik-speller",
+    "Version": "1.5.4"
+  },
+  {
+    "GroupID": "org.carrot2",
+    "ArtifactID": "morfologik-stemming",
+    "Version": "1.5.4"
+  },
+  {
+    "GroupID": "net.sourceforge.segment",
+    "ArtifactID": "segment",
+    "Version": "1.4.1"
+  },
+  {
+    "GroupID": "org.apache.tika",
+    "ArtifactID": "tika-core",
+    "Version": "0.9"
+  },
+  {
+    "GroupID": "com.google.code",
+    "ArtifactID": "lucene-gosen-ipadic",
+    "Version": "1.2.1"
+  },
+  {
+    "GroupID": "commons-digester",
+    "ArtifactID": "commons-digester",
+    "Version": "1.6"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-actuator-autoconfigure",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "org.springframework.boot",
+    "ArtifactID": "spring-boot-actuator",
+    "Version": "2.5.14"
+  },
+  {
+    "GroupID": "net.arnx",
+    "ArtifactID": "jsonic",
+    "Version": "1.2.7"
+  },
+  {
+    "GroupID": "org.codehaus.jackson",
+    "ArtifactID": "jackson-core-asl",
+    "Version": "1.9.13"
+  },
+  {
+    "GroupID": "com.gdn.ext.catalog",
+    "ArtifactID": "ext-catalog-rest-web-model",
+    "Version": "1.21.0-11"
+  },
+  {
+    "GroupID": "com.gdn.micro.graphics",
+    "ArtifactID": "graphics-client-java-sdk",
+    "Version": "1.2.1"
+  },
+  {
+    "GroupID": "com.gdn.ext.catalog",
+    "ArtifactID": "ext-catalog-common-utility",
+    "Version": "1.21.0-11"
+  },
+  {
+    "GroupID": "com.googlecode.json-simple",
+    "ArtifactID": "json-simple",
+    "Version": "1.1"
+  },
+  {
+    "GroupID": "net.sf.opencsv",
+    "ArtifactID": "opencsv",
+    "Version": "2.3"
+  },
+  {
+    "GroupID": "com.gdn.x",
+    "ArtifactID": "buybox-model",
+    "Version": "0.0.1-1"
+  },
+  {
+    "GroupID": "org.hibernate",
+    "ArtifactID": "hibernate-validator",
+    "Version": "5.3.5.Final"
+  },
+  {
+    "GroupID": "com.gdn.spring.boot.plugin",
+    "ArtifactID": "common-plugin",
+    "Version": "0.0.3-RELEASE"
+  },
+  {
+    "GroupID": "javax.validation",
+    "ArtifactID": "validation-api",
+    "Version": "2.0.1.Final"
+  },
+  {
+    "GroupID": "com.gdn.oxford",
+    "ArtifactID": "oxford-enum",
+    "Version": "1.48.0-4"
+  },
+  {
+    "GroupID": "com.gdn.oxford",
+    "ArtifactID": "oxford-common",
+    "Version": "1.48.0-4"
+  },
+  {
+    "GroupID": "com.gdn.oxford",
+    "ArtifactID": "oxford-properties",
+    "Version": "1.48.0-4"
+  },
+  {
+    "GroupID": "com.gdn.partners",
+    "ArtifactID": "merchant-voucher-model",
+    "Version": "2.35.0-4"
+  },
+  {
+    "GroupID": "com.google.auto.value",
+    "ArtifactID": "auto-value-annotations",
+    "Version": "1.9"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-queries",
+    "Version": "8.8.0"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-sandbox",
+    "Version": "8.8.0"
+  },
+  {
+    "GroupID": "org.elasticsearch",
+    "ArtifactID": "elasticsearch-core",
+    "Version": "7.12.1"
+  },
+  {
+    "GroupID": "org.elasticsearch",
+    "ArtifactID": "elasticsearch-secure-sm",
+    "Version": "7.12.1"
+  },
+  {
+    "GroupID": "org.elasticsearch",
+    "ArtifactID": "elasticsearch-x-content",
+    "Version": "7.12.1"
+  },
+  {
+    "GroupID": "org.elasticsearch",
+    "ArtifactID": "elasticsearch-geo",
+    "Version": "7.12.1"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-grouping",
+    "Version": "8.8.0"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-highlighter",
+    "Version": "8.8.0"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-join",
+    "Version": "8.8.0"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-memory",
+    "Version": "8.8.0"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-misc",
+    "Version": "8.8.0"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-spatial-extras",
+    "Version": "8.8.0"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-spatial3d",
+    "Version": "8.8.0"
+  },
+  {
+    "GroupID": "org.elasticsearch",
+    "ArtifactID": "elasticsearch-cli",
+    "Version": "7.12.1"
+  },
+  {
+    "GroupID": "com.carrotsearch",
+    "ArtifactID": "hppc",
+    "Version": "0.8.1"
+  },
+  {
+    "GroupID": "com.tdunning",
+    "ArtifactID": "t-digest",
+    "Version": "3.2"
+  },
+  {
+    "GroupID": "org.elasticsearch",
+    "ArtifactID": "jna",
+    "Version": "5.7.0-1"
+  },
+  {
+    "GroupID": "org.elasticsearch",
+    "ArtifactID": "elasticsearch-plugin-classloader",
+    "Version": "7.12.1"
+  },
+  {
+    "GroupID": "com.fasterxml.jackson.dataformat",
+    "ArtifactID": "jackson-dataformat-smile",
+    "Version": "2.12.6"
+  },
+  {
+    "GroupID": "com.fasterxml.jackson.dataformat",
+    "ArtifactID": "jackson-dataformat-cbor",
+    "Version": "2.12.6"
+  },
+  {
+    "GroupID": "com.gdn.trade.in.catalog",
+    "ArtifactID": "trade-in-catalog-model",
+    "Version": "1.54.0-1"
+  },
+  {
+    "GroupID": "com.gdn.x.search",
+    "ArtifactID": "search-rest-web",
+    "Version": "8.22.0-9-SNAPSHOT"
+  },
+  {
+    "GroupID": "io.dropwizard.metrics",
+    "ArtifactID": "metrics-servlets",
+    "Version": "4.1.31"
+  },
+  {
+    "GroupID": "javax.servlet",
+    "ArtifactID": "javax.servlet-api",
+    "Version": "3.1.0"
+  },
+  {
+    "GroupID": "com.jayway.jsonpath",
+    "ArtifactID": "json-path-assert",
+    "Version": "2.3.0"
+  },
+  {
+    "GroupID": "commons-dbcp",
+    "ArtifactID": "commons-dbcp",
+    "Version": "1.4"
+  },
+  {
+    "GroupID": "com.gdn.spring.boot.plugin",
+    "ArtifactID": "version-plugin",
+    "Version": "0.0.1-RELEASE"
+  },
+  {
+    "GroupID": "io.springfox",
+    "ArtifactID": "springfox-swagger-ui",
+    "Version": "2.9.2"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-starter-consul-config",
+    "Version": "2.1.0.RELEASE"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-vault-config",
+    "Version": "2.1.0.RELEASE"
+  },
+  {
+    "GroupID": "io.dropwizard.metrics",
+    "ArtifactID": "metrics-jvm",
+    "Version": "4.1.31"
+  },
+  {
+    "GroupID": "com.helger",
+    "ArtifactID": "profiler",
+    "Version": "1.1.1"
+  },
+  {
+    "GroupID": "org.hamcrest",
+    "ArtifactID": "hamcrest-library",
+    "Version": "2.2"
+  },
+  {
+    "GroupID": "commons-pool",
+    "ArtifactID": "commons-pool",
+    "Version": "1.6"
+  },
+  {
+    "GroupID": "io.micrometer",
+    "ArtifactID": "micrometer-core",
+    "Version": "1.7.12"
+  },
+  {
+    "GroupID": "org.latencyutils",
+    "ArtifactID": "LatencyUtils",
+    "Version": "2.0.3"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-starter-consul",
+    "Version": "3.0.4"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-consul-config",
+    "Version": "3.0.4"
+  },
+  {
+    "GroupID": "org.springframework.cloud",
+    "ArtifactID": "spring-cloud-consul-core",
+    "Version": "3.0.4"
+  },
+  {
+    "GroupID": "org.springframework.vault",
+    "ArtifactID": "spring-vault-core",
+    "Version": "2.3.2"
+  },
+  {
+    "GroupID": "com.gdn.x.search.solrplugin",
+    "ArtifactID": "solr-plugin",
+    "Version": "8.22.0-9-SNAPSHOT"
+  },
+  {
+    "GroupID": "org.apache.solr",
+    "ArtifactID": "solr-core",
+    "Version": "8.11.1"
+  },
+  {
+    "GroupID": "org.apache.logging.log4j",
+    "ArtifactID": "log4j-core",
+    "Version": "2.17.1"
+  },
+  {
+    "GroupID": "org.apache.commons",
+    "ArtifactID": "commons-text",
+    "Version": "1.10.0"
+  },
+  {
+    "GroupID": "org.apache.solr",
+    "ArtifactID": "solr-ltr",
+    "Version": "8.11.1"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-analyzers-kuromoji",
+    "Version": "8.11.1"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-analyzers-nori",
+    "Version": "8.11.1"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-analyzers-phonetic",
+    "Version": "8.11.1"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-classification",
+    "Version": "8.11.1"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-codecs",
+    "Version": "8.11.1"
+  },
+  {
+    "GroupID": "org.apache.lucene",
+    "ArtifactID": "lucene-expressions",
+    "Version": "8.11.1"
+  },
+  {
+    "GroupID": "com.esri.geometry",
+    "ArtifactID": "esri-geometry-api",
+    "Version": "2.2.0"
+  },
+  {
+    "GroupID": "com.github.zafarkhaja",
+    "ArtifactID": "java-semver",
+    "Version": "0.9.0"
+  },
+  {
+    "GroupID": "com.google.re2j",
+    "ArtifactID": "re2j",
+    "Version": "1.2"
+  },
+  {
+    "GroupID": "com.lmax",
+    "ArtifactID": "disruptor",
+    "Version": "3.4.2"
+  },
+  {
+    "GroupID": "commons-cli",
+    "ArtifactID": "commons-cli",
+    "Version": "1.4"
+  },
+  {
+    "GroupID": "io.dropwizard.metrics",
+    "ArtifactID": "metrics-graphite",
+    "Version": "4.1.31"
+  },
+  {
+    "GroupID": "io.dropwizard.metrics",
+    "ArtifactID": "metrics-jetty9",
+    "Version": "4.1.31"
+  },
+  {
+    "GroupID": "io.dropwizard.metrics",
+    "ArtifactID": "metrics-jmx",
+    "Version": "4.1.31"
+  },
+  {
+    "GroupID": "io.opentracing",
+    "ArtifactID": "opentracing-api",
+    "Version": "0.33.0"
+  },
+  {
+    "GroupID": "io.opentracing",
+    "ArtifactID": "opentracing-noop",
+    "Version": "0.33.0"
+  },
+  {
+    "GroupID": "io.opentracing",
+    "ArtifactID": "opentracing-util",
+    "Version": "0.33.0"
+  },
+  {
+    "GroupID": "io.sgr",
+    "ArtifactID": "s2-geometry-library-java",
+    "Version": "1.0.0"
+  },
+  {
+    "GroupID": "net.hydromatic",
+    "ArtifactID": "eigenbase-properties",
+    "Version": "1.1.5"
+  },
+  {
+    "GroupID": "org.antlr",
+    "ArtifactID": "antlr4-runtime",
+    "Version": "4.5.1-1"
+  },
+  {
+    "GroupID": "org.apache.calcite",
+    "ArtifactID": "calcite-core",
+    "Version": "1.27.0"
+  },
+  {
+    "GroupID": "org.apache.calcite",
+    "ArtifactID": "calcite-linq4j",
+    "Version": "1.27.0"
+  },
+  {
+    "GroupID": "org.apache.calcite.avatica",
+    "ArtifactID": "avatica-core",
+    "Version": "1.18.0"
+  },
+  {
+    "GroupID": "org.apache.commons",
+    "ArtifactID": "commons-configuration2",
+    "Version": "2.1.1"
+  },
+  {
+    "GroupID": "org.apache.commons",
+    "ArtifactID": "commons-exec",
+    "Version": "1.3"
+  },
+  {
+    "GroupID": "org.apache.curator",
+    "ArtifactID": "curator-client",
+    "Version": "2.13.0"
+  },
+  {
+    "GroupID": "org.apache.curator",
+    "ArtifactID": "curator-framework",
+    "Version": "5.1.0"
+  },
+  {
+    "GroupID": "org.apache.curator",
+    "ArtifactID": "curator-recipes",
+    "Version": "5.1.0"
+  },
+  {
+    "GroupID": "org.apache.hadoop",
+    "ArtifactID": "hadoop-annotations",
+    "Version": "3.2.2"
+  },
+  {
+    "GroupID": "org.apache.hadoop",
+    "ArtifactID": "hadoop-auth",
+    "Version": "3.2.2"
+  },
+  {
+    "GroupID": "org.apache.hadoop",
+    "ArtifactID": "hadoop-common",
+    "Version": "3.2.2"
+  },
+  {
+    "GroupID": "org.apache.hadoop",
+    "ArtifactID": "hadoop-hdfs-client",
+    "Version": "3.2.2"
+  },
+  {
+    "GroupID": "org.apache.htrace",
+    "ArtifactID": "htrace-core4",
+    "Version": "4.1.0-incubating"
+  },
+  {
+    "GroupID": "org.apache.kerby",
+    "ArtifactID": "kerb-core",
+    "Version": "1.0.1"
+  },
+  {
+    "GroupID": "org.apache.kerby",
+    "ArtifactID": "kerb-util",
+    "Version": "1.0.1"
+  },
+  {
+    "GroupID": "org.apache.kerby",
+    "ArtifactID": "kerby-asn1",
+    "Version": "1.0.1"
+  },
+  {
+    "GroupID": "org.apache.kerby",
+    "ArtifactID": "kerby-pkix",
+    "Version": "1.0.1"
+  },
+  {
+    "GroupID": "org.apache.logging.log4j",
+    "ArtifactID": "log4j-1.2-api",
+    "Version": "2.17.2"
+  },
+  {
+    "GroupID": "org.apache.logging.log4j",
+    "ArtifactID": "log4j-layout-template-json",
+    "Version": "2.17.2"
+  },
+  {
+    "GroupID": "org.apache.logging.log4j",
+    "ArtifactID": "log4j-slf4j-impl",
+    "Version": "2.17.2"
+  },
+  {
+    "GroupID": "org.apache.logging.log4j",
+    "ArtifactID": "log4j-web",
+    "Version": "2.17.2"
+  },
+  {
+    "GroupID": "org.bitbucket.b_c",
+    "ArtifactID": "jose4j",
+    "Version": "0.6.5"
+  },
+  {
+    "GroupID": "org.codehaus.janino",
+    "ArtifactID": "commons-compiler",
+    "Version": "3.1.7"
+  },
+  {
+    "GroupID": "org.codehaus.janino",
+    "ArtifactID": "janino",
+    "Version": "3.1.7"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-alpn-java-server",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-alpn-server",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-continuation",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-deploy",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-jmx",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-rewrite",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-security",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-server",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-servlet",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-servlets",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-webapp",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty",
+    "ArtifactID": "jetty-xml",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.eclipse.jetty.http2",
+    "ArtifactID": "http2-server",
+    "Version": "9.4.46.v20220331"
+  },
+  {
+    "GroupID": "org.locationtech.spatial4j",
+    "ArtifactID": "spatial4j",
+    "Version": "0.7"
+  },
+  {
+    "GroupID": "org.ow2.asm",
+    "ArtifactID": "asm-commons",
+    "Version": "8.0.1"
+  },
+  {
+    "GroupID": "org.rrd4j",
+    "ArtifactID": "rrd4j",
+    "Version": "3.5"
+  },
+  {
+    "GroupID": "com.gdn.x.search",
+    "ArtifactID": "search-report",
+    "Version": "8.22.0-9-SNAPSHOT"
+  }
+]

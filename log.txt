@@ -1,0 +1,46 @@
+Dependency tree successfully saved to /Users/balamurugan/Desktop/JavaVersion/Input/OurInputMvnDependency.txt
+HTML response saved --> /Users/balamurugan/Desktop/JavaVersion/Input/dependency-version.html
+Dependency details saved --> /Users/balamurugan/Desktop/JavaVersion/Input/LatestDependency.json
+Our Dependency Details stored --> /Users/balamurugan/Desktop/JavaVersion/Input/OurDependency.json
+Macthed Dependency saved --> /Users/balamurugan/Desktop/JavaVersion/Output/MatchedDependency.json
+Missing Dependency saved --> /Users/balamurugan/Desktop/JavaVersion/Output/MissingDependency.json
+Version Mismatch saved --> /Users/balamurugan/Desktop/JavaVersion/Output/DiffVersion.json
+File rest-web.xml copied successfully.
+File dao-mongodb_bin.xml copied successfully.
+File dao-mongodb.xml copied successfully.
+File database.xml copied successfully.
+File dao-api.xml copied successfully.
+File integration.xml copied successfully.
+File service-api.xml copied successfully.
+File pom.xml copied successfully.
+File model.xml copied successfully.
+File report.xml copied successfully.
+File solr-plugin.xml copied successfully.
+File service-impl.xml copied successfully.
+File rest-web-model.xml copied successfully.
+Pom Json Output --> /Users/balamurugan/Desktop/JavaVersion/PomOutput.json
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/rest-web.xml : Current Version = 6.1.8.RELEASE , Updated Version = 6.2.7.RELEASE , Group ID = io.lettuce , Atrifact ID = lettuce-core
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 1.18.0 , Updated Version = 1.18.30 , Group ID = org.projectlombok , Atrifact ID = lombok
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 4.5.5 , Updated Version = 4.5.14 , Group ID = org.apache.httpcomponents , Atrifact ID = httpclient
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 4.7.0 , Updated Version = 4.8.2 , Group ID = org.mongodb , Atrifact ID = bson
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 4.7.0 , Updated Version = 4.8.2 , Group ID = org.mongodb , Atrifact ID = mongodb-driver-core
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 4.7.0 , Updated Version = 4.8.2 , Group ID = org.mongodb , Atrifact ID = mongodb-driver-sync
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 2.3.0 , Updated Version = 2.7.0 , Group ID = com.jayway.jsonpath , Atrifact ID = json-path
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 1.2.3 , Updated Version = 1.4.11 , Group ID = ch.qos.logback , Atrifact ID = logback-core
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 1.7.7 , Updated Version = 2.0.9 , Group ID = org.slf4j , Atrifact ID = jcl-over-slf4j
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 2.14.1 , Updated Version = 2.14.3 , Group ID = com.fasterxml.jackson.core , Atrifact ID = jackson-core
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 3.3.2 , Updated Version = 3.12.0 , Group ID = org.apache.commons , Atrifact ID = commons-lang3
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 1.3 , Updated Version = 2.2 , Group ID = org.hamcrest , Atrifact ID = hamcrest-core
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 2.5.14 , Updated Version = 3.0.13 , Group ID = org.springframework.boot , Atrifact ID = spring-boot-starter-actuator
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 2.8.3 , Updated Version = 3.0.13 , Group ID = org.springframework.kafka , Atrifact ID = spring-kafka
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 7.0.85 , Updated Version = 10.1.16 , Group ID = org.apache.tomcat , Atrifact ID = tomcat-jdbc
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml : Current Version = 3.12.4 , Updated Version = 4.8.1 , Group ID = org.mockito , Atrifact ID = mockito-inline
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/model.xml : Current Version = 2.8.4 , Updated Version = 2.9.1 , Group ID = com.google.code.gson , Atrifact ID = gson
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/model.xml : Current Version = 4.7.0 , Updated Version = 4.8.2 , Group ID = org.mongodb , Atrifact ID = bson
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/model.xml : Current Version = 4.7.0 , Updated Version = 4.8.2 , Group ID = org.mongodb , Atrifact ID = mongodb-driver-core
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/model.xml : Current Version = 4.7.0 , Updated Version = 4.8.2 , Group ID = org.mongodb , Atrifact ID = mongodb-driver-sync
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/dao-mongodb.xml : Current Version = 4.7.0 , Updated Version = 4.8.2 , Group ID = org.mongodb , Atrifact ID = bson
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/dao-mongodb.xml : Current Version = 4.7.0 , Updated Version = 4.8.2 , Group ID = org.mongodb , Atrifact ID = mongodb-driver-core
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/dao-mongodb.xml : Current Version = 4.7.0 , Updated Version = 4.8.2 , Group ID = org.mongodb , Atrifact ID = mongodb-driver-sync
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/solr-plugin.xml : Current Version = 2.17.1 , Updated Version = 2.19.0 , Group ID = org.apache.logging.log4j , Atrifact ID = log4j-core
+/Users/balamurugan/Desktop/JavaVersion/PomFiles/solr-plugin.xml : Current Version = 2.7 , Updated Version = 2.9.1 , Group ID = com.google.code.gson , Atrifact ID = gson

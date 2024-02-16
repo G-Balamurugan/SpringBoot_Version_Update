@@ -1,0 +1,1638 @@
+{
+  "/Users/balamurugan/Desktop/JavaVersion/PomFiles/rest-web.xml": [
+    {
+      "Group ID": "org.springframework.plugin",
+      "Artifact ID": "spring-plugin-core",
+      "Version": "1.2.0.RELEASE",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "commons-dbcp",
+      "Artifact ID": "commons-dbcp",
+      "Version": "1.4",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.commons",
+      "Artifact ID": "commons-csv",
+      "Version": "1.3",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.spring.boot.plugin",
+      "Artifact ID": "version-plugin",
+      "Version": "0.0.1-RELEASE",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "io.springfox",
+      "Artifact ID": "springfox-swagger2",
+      "Version": "2.9.2",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "io.springfox",
+      "Artifact ID": "springfox-swagger-ui",
+      "Version": "2.9.2",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.google.cloud",
+      "Artifact ID": "google-cloud-storage",
+      "Version": "2.10.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "io.lettuce",
+      "Artifact ID": "lettuce-core",
+      "Version": "6.1.8.RELEASE",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    }
+  ],
+  "/Users/balamurugan/Desktop/JavaVersion/PomFiles/rest-web-model.xml": [
+    {
+      "Group ID": "org.projectlombok",
+      "Artifact ID": "lombok",
+      "Version": null,
+      "Property Name": "lombok.version",
+      "Scope": "provided",
+      "Exclusion": []
+    }
+  ],
+  "/Users/balamurugan/Desktop/JavaVersion/PomFiles/pom.xml": [
+    {
+      "Group ID": "com.gdn.x.shipping",
+      "Artifact ID": "shipping-service-client-java-sdk",
+      "Version": "4.91.0-6",
+      "Property Name": "com.gdn.x.shipping.client.sdk.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.springframework.cloud",
+      "Artifact ID": "spring-cloud-dependencies",
+      "Version": "2020.0.6",
+      "Property Name": "spring-cloud.version",
+      "Scope": "import",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.campaign",
+      "Artifact ID": "campaign-client-java-sdk",
+      "Version": "1.25.0-6",
+      "Property Name": "x.campaign.sdk.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.projectlombok",
+      "Artifact ID": "lombok",
+      "Version": "1.18.0",
+      "Property Name": "lombok.version",
+      "Scope": "provided",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.jetbrains",
+      "Artifact ID": "annotations",
+      "Version": "13.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.promotion",
+      "Artifact ID": "promotion-model-event",
+      "Version": "1.120.0-6",
+      "Property Name": "x.promotion.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.promotion",
+      "Artifact ID": "promotion-rest-web-model",
+      "Version": "1.120.0-6",
+      "Property Name": "x.promotion.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.partners",
+      "Artifact ID": "product-pricing-streaming-model",
+      "Version": "0.39.0-8",
+      "Property Name": "product.pricing.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.ryantenney.metrics",
+      "Artifact ID": "metrics-spring",
+      "Version": "3.1.1",
+      "Property Name": "metrics-spring-version",
+      "Scope": "compile",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.httpcomponents",
+      "Artifact ID": "httpclient",
+      "Version": "4.5.5",
+      "Property Name": "httpclient.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.httpcomponents",
+      "Artifact ID": "fluent-hc",
+      "Version": "4.5.5",
+      "Property Name": "httpclient.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.httpcomponents",
+      "Artifact ID": "httpmime",
+      "Version": "4.5.5",
+      "Property Name": "httpclient.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.mongodb",
+      "Artifact ID": "bson",
+      "Version": "4.7.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.mongodb",
+      "Artifact ID": "mongodb-driver-core",
+      "Version": "4.7.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.mongodb",
+      "Artifact ID": "mongodb-driver-sync",
+      "Version": "4.7.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.jayway.jsonpath",
+      "Artifact ID": "json-path",
+      "Version": "2.3.0",
+      "Property Name": "jsonpath-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.jayway.jsonpath",
+      "Artifact ID": "json-path-assert",
+      "Version": "2.3.0",
+      "Property Name": "jsonpath-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "ch.qos.logback",
+      "Artifact ID": "logback-core",
+      "Version": "1.2.3",
+      "Property Name": "logback-core-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "ch.qos.logback",
+      "Artifact ID": "logback-classic",
+      "Version": "1.2.3",
+      "Property Name": "logback-core-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "javax.inject",
+      "Artifact ID": "javax.inject",
+      "Version": "1",
+      "Property Name": "javax.inject-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.search",
+      "Artifact ID": "search-model",
+      "Version": null,
+      "Property Name": "project.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.search",
+      "Artifact ID": "search-integration",
+      "Version": null,
+      "Property Name": "project.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.search",
+      "Artifact ID": "search-dao-api",
+      "Version": null,
+      "Property Name": "project.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.search",
+      "Artifact ID": "search-dao-jpa",
+      "Version": null,
+      "Property Name": "project.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.search",
+      "Artifact ID": "search-dao-mongodb",
+      "Version": null,
+      "Property Name": "project.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.search",
+      "Artifact ID": "search-service-api",
+      "Version": null,
+      "Property Name": "project.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.search",
+      "Artifact ID": "search-service-impl",
+      "Version": null,
+      "Property Name": "project.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.search",
+      "Artifact ID": "search-rest-web-model",
+      "Version": null,
+      "Property Name": "project.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.search",
+      "Artifact ID": "search-rest-web",
+      "Version": null,
+      "Property Name": "project.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "javax.servlet",
+      "Artifact ID": "javax.servlet-api",
+      "Version": "3.1.0",
+      "Property Name": "javax-servlet-api-version",
+      "Scope": "provided",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.slf4j",
+      "Artifact ID": "jcl-over-slf4j",
+      "Version": "1.7.7",
+      "Property Name": "slf4j-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.slf4j",
+      "Artifact ID": "slf4j-api",
+      "Version": "1.7.7",
+      "Property Name": "slf4j-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "commons-io",
+      "Artifact ID": "commons-io",
+      "Version": "2.4",
+      "Property Name": "commons-io-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "commons-fileupload",
+      "Artifact ID": "commons-fileupload",
+      "Version": "1.3.1",
+      "Property Name": "commons-fileupload-version",
+      "Scope": "runtime",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.fasterxml.jackson.core",
+      "Artifact ID": "jackson-core",
+      "Version": "2.14.1",
+      "Property Name": "jackson-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "net.sf.dozer",
+      "Artifact ID": "dozer",
+      "Version": "5.5.1",
+      "Property Name": "dozer-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.fasterxml.jackson.core",
+      "Artifact ID": "jackson-annotations",
+      "Version": "2.14.1",
+      "Property Name": "jackson-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.fasterxml.jackson.core",
+      "Artifact ID": "jackson-databind",
+      "Version": "2.14.1",
+      "Property Name": "jackson-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.commons",
+      "Artifact ID": "commons-lang3",
+      "Version": "3.3.2",
+      "Property Name": "commons-lang3-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "joda-time",
+      "Artifact ID": "joda-time",
+      "Version": "2.4",
+      "Property Name": "joda-time-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.jsoup",
+      "Artifact ID": "jsoup",
+      "Version": "1.7.2",
+      "Property Name": "jsoup-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.google.guava",
+      "Artifact ID": "guava",
+      "Version": "20.0",
+      "Property Name": "google-guava-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.google.guava",
+      "Artifact ID": "guava-testlib",
+      "Version": "20.0",
+      "Property Name": "google-guava-version",
+      "Scope": "test",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.hamcrest",
+      "Artifact ID": "hamcrest-core",
+      "Version": "1.3",
+      "Property Name": "hamcrest-version",
+      "Scope": "test",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.hamcrest",
+      "Artifact ID": "hamcrest-all",
+      "Version": "1.3",
+      "Property Name": "hamcrest-version",
+      "Scope": "test",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.mockito",
+      "Artifact ID": "mockito-all",
+      "Version": "1.10.19",
+      "Property Name": "mockito-version",
+      "Scope": "test",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.hibernate.javax.persistence",
+      "Artifact ID": "hibernate-jpa-2.1-api",
+      "Version": "1.0.0.Final",
+      "Property Name": "jpa-api-hibernate-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.jboss.spec.javax.transaction",
+      "Artifact ID": "jboss-transaction-api_1.2_spec",
+      "Version": "1.0.0.Final",
+      "Property Name": "jta-api-jboss-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.poi",
+      "Artifact ID": "poi",
+      "Version": "3.15",
+      "Property Name": "poi-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.poi",
+      "Artifact ID": "poi-ooxml",
+      "Version": "3.15",
+      "Property Name": "poi-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.poi",
+      "Artifact ID": "poi-ooxml-schemas",
+      "Version": "3.15",
+      "Property Name": "poi-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "xmlbeans",
+      "Artifact ID": "xbean",
+      "Version": "2.2.0",
+      "Property Name": "xmlbeans-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "dom4j",
+      "Artifact ID": "dom4j",
+      "Version": "1.6.1",
+      "Property Name": "dom4j-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.springframework.security",
+      "Artifact ID": "spring-security-web",
+      "Version": "3.2.5.RELEASE",
+      "Property Name": "spring-security-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.springframework.security",
+      "Artifact ID": "spring-security-config",
+      "Version": "3.2.5.RELEASE",
+      "Property Name": "spring-security-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "xml-apis",
+      "Artifact ID": "xml-apis",
+      "Version": "1.4.01",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.product",
+      "Artifact ID": "product-domain-event",
+      "Version": "2.117.0-4",
+      "Property Name": "gdn-x-product.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "com.gdn.partners",
+          "product-analytics-web-model"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.gdn.x.product",
+      "Artifact ID": "product-rest-web-model",
+      "Version": "2.117.0-4",
+      "Property Name": "gdn-x-product.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.productcategorybase",
+      "Artifact ID": "product-category-base-rest-web-model",
+      "Version": "4.91.0-8",
+      "Property Name": "gdn-product-category-base-client-sdk.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.productcategorybase",
+      "Artifact ID": "product-category-base-domain-event",
+      "Version": "4.91.0-8",
+      "Property Name": "gdn-product-category-base-client-sdk.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "com.gdn.x.productcategorybase",
+          "product-category-base-model"
+        ],
+        [
+          "com.gdn.partners",
+          "promo-analytics-web-model"
+        ],
+        [
+          "com.gdn.partners",
+          "promo-analytics-streaming-model"
+        ],
+        [
+          "com.gdn",
+          "gdn-common-base"
+        ],
+        [
+          "com.gdn.pancen.cms.backend",
+          "pancen-cms-backend-web-model"
+        ],
+        [
+          "com.gdn.x.campaign",
+          "campaign-rest-web-model"
+        ],
+        [
+          "io.github.openfeign",
+          "feign-okhttp"
+        ],
+        [
+          "io.github.openfeign",
+          "feign-jackson"
+        ],
+        [
+          "io.github.openfeign.form",
+          "feign-form"
+        ],
+        [
+          "io.github.openfeign",
+          "feign-core"
+        ],
+        [
+          "io.github.openfeign",
+          "feign-slf4j"
+        ],
+        [
+          "org.springframework.data",
+          "spring-data-solr"
+        ],
+        [
+          "org.springframework.data",
+          "spring-data-redis"
+        ],
+        [
+          "com.gdn.aggregate",
+          "aggregate-platform-query-web-model"
+        ],
+        [
+          "com.gdn.x",
+          "business-partner-client-java-sdk"
+        ],
+        [
+          "com.gdn.x",
+          "business-partner-rest-web-model"
+        ],
+        [
+          "com.gdn.x.product",
+          "product-rest-web-model"
+        ],
+        [
+          "io.github.openfeign",
+          "feign-hystrix"
+        ],
+        [
+          "org.apache.tomcat",
+          "tomcat-jdbc"
+        ],
+        [
+          "org.springdoc",
+          "springdoc-openapi-ui"
+        ],
+        [
+          "com.newrelic.agent.java",
+          "newrelic-api"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.gdn.x.message",
+      "Artifact ID": "message-template-delivery-client-java-mq-sdk",
+      "Version": "1.35.0-3\n        ",
+      "Property Name": "message-template-delivery-client-java-mq-sdk.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.commons",
+      "Artifact ID": "commons-csv",
+      "Version": "1.3",
+      "Property Name": "commons-csv-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.languagetool",
+      "Artifact ID": "languagetool",
+      "Version": "2.0.1",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.solr",
+      "Artifact ID": "solr-solrj",
+      "Version": "8.11.1",
+      "Property Name": "solr-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.springframework.boot",
+      "Artifact ID": "spring-boot-starter-actuator",
+      "Version": "2.5.14",
+      "Property Name": "spring-boot-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.springframework.kafka",
+      "Artifact ID": "spring-kafka",
+      "Version": "2.8.3",
+      "Property Name": "spring-kafka-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.atteo",
+      "Artifact ID": "evo-inflector",
+      "Version": "1.2.2",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.cybozu.labs",
+      "Artifact ID": "langdetect",
+      "Version": "1.1-20120112",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.tomcat",
+      "Artifact ID": "tomcat-jdbc",
+      "Version": "7.0.85",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.codehaus.jackson",
+      "Artifact ID": "jackson-mapper-asl",
+      "Version": "1.9.13",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.google.api",
+      "Artifact ID": "gax",
+      "Version": "2.12.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.product-review",
+      "Artifact ID": "product-review-domain-event",
+      "Version": "2.30.0-12",
+      "Property Name": "product-review-service-client-sdk-version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "com.gdn.x.member",
+          "member-client-java-sdk"
+        ],
+        [
+          "com.gdn.x.product",
+          "product-client-java-sdk"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.gdn.ext.catalog",
+      "Artifact ID": "ext-catalog-client-java-sdk",
+      "Version": "1.21.0-11",
+      "Property Name": "gdn-pristine-client-sdk.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "com.gdn.mta",
+          "product-business-partner-rest-web-model"
+        ],
+        [
+          "org.seleniumhq.selenium",
+          "selenium-java"
+        ],
+        [
+          "org.hibernate.validator",
+          "hibernate-validator"
+        ],
+        [
+          "javax.validation",
+          "validation-api"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.gdn.ext.catalog",
+      "Artifact ID": "ext-catalog-model",
+      "Version": "1.21.0-11",
+      "Property Name": "gdn-pristine-client-sdk.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "org.seleniumhq.selenium",
+          "selenium-java"
+        ],
+        [
+          "org.hibernate.validator",
+          "hibernate-validator"
+        ],
+        [
+          "javax.validation",
+          "validation-api"
+        ],
+        [
+          "com.gdn",
+          "gdn-common-base"
+        ],
+        [
+          "org.jongo",
+          "jongo"
+        ]
+      ]
+    },
+    {
+      "Group ID": "org.apache.lucene",
+      "Artifact ID": "lucene-core",
+      "Version": "8.11.1",
+      "Property Name": "lucene-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.lucene",
+      "Artifact ID": "lucene-analyzers-common",
+      "Version": "8.11.1",
+      "Property Name": "lucene-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.lucene",
+      "Artifact ID": "lucene-queryparser",
+      "Version": "8.11.1",
+      "Property Name": "lucene-version",
+      "Scope": "test",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.oxford",
+      "Artifact ID": "oxford-streaming-model",
+      "Version": "1.48.0-4",
+      "Property Name": "oxford-sdk.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.oxford",
+      "Artifact ID": "oxford-web-model",
+      "Version": "1.48.0-4",
+      "Property Name": "oxford-sdk.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.partners",
+      "Artifact ID": "merchant-voucher-web-model",
+      "Version": "2.35.0-4",
+      "Property Name": "merchant-voucher-sdk.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.partners",
+      "Artifact ID": "merchant-voucher-streaming-model",
+      "Version": "2.35.0-4",
+      "Property Name": "merchant-voucher-sdk.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.siva",
+      "Artifact ID": "siva-rest-web-model",
+      "Version": "4.30.0-21",
+      "Property Name": "com.gdn.x.siva.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.springframework.cloud",
+      "Artifact ID": "spring-cloud-starter-consul-config",
+      "Version": "2.1.0.RELEASE",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.springframework.cloud",
+      "Artifact ID": "spring-cloud-vault-config",
+      "Version": "2.1.0.RELEASE",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.google.http-client",
+      "Artifact ID": "google-http-client-jackson",
+      "Version": "1.23.0",
+      "Property Name": "google-http-client-jackson-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.aggregate.modules",
+      "Artifact ID": "module-domain-tradein",
+      "Version": "0.0.3",
+      "Property Name": "aggregate-platform-tradein-module-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.brs.api",
+      "Artifact ID": "brs-api-web-model",
+      "Version": "3.15.0-3",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.paymentservice",
+      "Artifact ID": "payment-service-rest-web-model",
+      "Version": "4.2.0-4",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.google.cloud",
+      "Artifact ID": "google-cloud-bigquery",
+      "Version": "2.7.1",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.google.apis",
+      "Artifact ID": "google-api-services-dataproc",
+      "Version": "v1-rev76-1.23.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.trade.in.catalog",
+      "Artifact ID": "trade-in-catalog-web-model",
+      "Version": "1.54.0-1",
+      "Property Name": "tradein.catalog.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.trade.in.catalog",
+      "Artifact ID": "trade-in-catalog-domain-event",
+      "Version": "1.54.0-1",
+      "Property Name": "tradein.catalog.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "org.springframework.cloud",
+          "spring-cloud-starter-sleuth"
+        ],
+        [
+          "org.springdoc",
+          "springdoc-openapi-webflux-core"
+        ],
+        [
+          "com.blibli.oss",
+          "version-plugin"
+        ],
+        [
+          "com.gdn.trade.in.catalog",
+          "trade-in-catalog-configuration"
+        ],
+        [
+          "io.projectreactor.kafka",
+          "reactor-kafka"
+        ]
+      ]
+    },
+    {
+      "Group ID": "org.mockito",
+      "Artifact ID": "mockito-inline",
+      "Version": "3.12.4",
+      "Property Name": null,
+      "Scope": "test",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "javax.xml.bind",
+      "Artifact ID": "jaxb-api",
+      "Version": "2.3.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.springframework.cloud",
+      "Artifact ID": "spring-cloud-starter-netflix-hystrix",
+      "Version": "2.2.2.RELEASE",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    }
+  ],
+  "/Users/balamurugan/Desktop/JavaVersion/PomFiles/model.xml": [
+    {
+      "Group ID": "com.gdn.x",
+      "Artifact ID": "business-partner-client-java-sdk",
+      "Version": null,
+      "Property Name": "business-partner-client.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "net.karneim",
+          "pojobuilder"
+        ],
+        [
+          "org.springframework.boot",
+          "spring-boot-starter-data-elasticsearch"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.gdn.x",
+      "Artifact ID": "business-partner-service-api",
+      "Version": null,
+      "Property Name": "business-partner-client.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "com.gdn.x.boot.rest.web",
+          "x-plugin-rest-web"
+        ],
+        [
+          "com.gdn.partners.plugins",
+          "partners-system-parameter-plugin"
+        ],
+        [
+          "org.springframework.boot",
+          "spring-boot-starter-data-elasticsearch"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.univocity",
+      "Artifact ID": "univocity-parsers",
+      "Version": null,
+      "Property Name": "univocity-parsers.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.projectlombok",
+      "Artifact ID": "lombok",
+      "Version": null,
+      "Property Name": "lombok.version",
+      "Scope": "provided",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.shipping",
+      "Artifact ID": "shipping-domain-event",
+      "Version": null,
+      "Property Name": "shipping.client.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "org.mongodb",
+          "mongodb-driver"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.gdn.x.inventory",
+      "Artifact ID": "inventory-domain-event",
+      "Version": null,
+      "Property Name": "com.gdn.x.inventory.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x",
+      "Artifact ID": "fulfillmentcenter-rest-web-model",
+      "Version": null,
+      "Property Name": "fulfillment-center-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.google.code.gson",
+      "Artifact ID": "gson",
+      "Version": "2.8.4",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn",
+      "Artifact ID": "gdn-common-base",
+      "Version": null,
+      "Property Name": "gdn-common-base-version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "org.springframework.integration",
+          "spring-integration-java-dsl"
+        ]
+      ]
+    },
+    {
+      "Group ID": "org.mongodb",
+      "Artifact ID": "bson",
+      "Version": "4.7.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.mongodb",
+      "Artifact ID": "mongodb-driver-core",
+      "Version": "4.7.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.mongodb",
+      "Artifact ID": "mongodb-driver-sync",
+      "Version": "4.7.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.springframework.cloud",
+      "Artifact ID": "spring-cloud-starter-feign",
+      "Version": "1.4.6.RELEASE",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.springframework.cloud",
+      "Artifact ID": "spring-cloud-starter-hystrix",
+      "Version": "1.4.6.RELEASE",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.product",
+      "Artifact ID": "product-rest-web-model",
+      "Version": null,
+      "Property Name": "gdn-x-product.version",
+      "Scope": null,
+      "Exclusion": []
+    }
+  ],
+  "/Users/balamurugan/Desktop/JavaVersion/PomFiles/service-api.xml": [
+    {
+      "Group ID": "com.gdn.x.campaign",
+      "Artifact ID": "campaign-client-java-sdk",
+      "Version": null,
+      "Property Name": "x.campaign.sdk.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.search.search-service",
+      "Artifact ID": "search-service-model",
+      "Version": null,
+      "Property Name": "search-service-model.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "org.springframework.cloud",
+          "spring-cloud-starter-sleuth"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.gdn.x.product",
+      "Artifact ID": "product-rest-web-model",
+      "Version": null,
+      "Property Name": "gdn-x-product.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x",
+      "Artifact ID": "buybox-web-model",
+      "Version": "0.0.1-1",
+      "Property Name": null,
+      "Scope": "compile",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.blibli.oss",
+      "Artifact ID": "common-plugin",
+      "Version": null,
+      "Property Name": "common-plugin.version",
+      "Scope": "compile",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.scala-lang",
+      "Artifact ID": "scala-library",
+      "Version": "2.10.4",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    }
+  ],
+  "/Users/balamurugan/Desktop/JavaVersion/PomFiles/dao-mongodb_bin.xml": [],
+  "/Users/balamurugan/Desktop/JavaVersion/PomFiles/dao-api.xml": [],
+  "/Users/balamurugan/Desktop/JavaVersion/PomFiles/service-impl.xml": [
+    {
+      "Group ID": "com.blibli.oss",
+      "Artifact ID": "common-plugin",
+      "Version": null,
+      "Property Name": "common-plugin.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.jetbrains",
+      "Artifact ID": "annotations",
+      "Version": "13.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.inventory",
+      "Artifact ID": "inventory-domain-event",
+      "Version": null,
+      "Property Name": "com.gdn.x.inventory.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.partners",
+      "Artifact ID": "product-pricing-web-model",
+      "Version": "0.39.0-8",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "one.util",
+      "Artifact ID": "streamex",
+      "Version": null,
+      "Property Name": "streamex.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.netflix.netflix-commons",
+      "Artifact ID": "netflix-commons-util",
+      "Version": null,
+      "Property Name": "netflix-commons-util.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.search.search-service",
+      "Artifact ID": "search-service-model",
+      "Version": null,
+      "Property Name": "search-service-model.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "org.springframework.cloud",
+          "spring-cloud-starter-sleuth"
+        ],
+        [
+          "com.gdn.pancen.cms.backend",
+          "pancen-cms-backend-web-model"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.gdn.x.campaign",
+      "Artifact ID": "campaign-domain-event",
+      "Version": null,
+      "Property Name": "x.campaign.domain.event.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "com.gdn.x.productcategorybase",
+          "product-category-base-rest-web-model"
+        ],
+        [
+          "com.gdn.x.productcategorybase",
+          "product-category-base-model"
+        ],
+        [
+          "com.gdn.partners",
+          "promo-analytics-web-model"
+        ],
+        [
+          "com.gdn.partners",
+          "promo-analytics-streaming-model"
+        ],
+        [
+          "com.gdn",
+          "gdn-common-base"
+        ],
+        [
+          "com.gdn.pancen.cms.backend",
+          "pancen-cms-backend-web-model"
+        ],
+        [
+          "com.gdn.x.campaign",
+          "campaign-rest-web-model"
+        ],
+        [
+          "io.github.openfeign",
+          "feign-okhttp"
+        ],
+        [
+          "io.github.openfeign",
+          "feign-jackson"
+        ],
+        [
+          "io.github.openfeign.form",
+          "feign-form"
+        ],
+        [
+          "io.github.openfeign",
+          "feign-core"
+        ],
+        [
+          "io.github.openfeign",
+          "feign-slf4j"
+        ],
+        [
+          "org.springframework.data",
+          "spring-data-solr"
+        ],
+        [
+          "org.springframework.data",
+          "spring-data-redis"
+        ],
+        [
+          "com.gdn.aggregate",
+          "aggregate-platform-query-web-model"
+        ],
+        [
+          "com.gdn.x",
+          "business-partner-client-java-sdk"
+        ],
+        [
+          "com.gdn.x",
+          "business-partner-rest-web-model"
+        ],
+        [
+          "com.gdn.x.product",
+          "product-rest-web-model"
+        ]
+      ]
+    },
+    {
+      "Group ID": "org.jsoup",
+      "Artifact ID": "jsoup",
+      "Version": null,
+      "Property Name": "jsoup-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.productcategorybase",
+      "Artifact ID": "product-category-base-rest-web-model",
+      "Version": null,
+      "Property Name": "gdn-product-category-base-client-sdk.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "io.github.openfeign.form",
+          "feign-form"
+        ],
+        [
+          "org.springdoc",
+          "springdoc-openapi-ui"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.gdn.x.product-review",
+      "Artifact ID": "product-review-service-client-sdk",
+      "Version": null,
+      "Property Name": "product-review-service-client-sdk-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.product-review",
+      "Artifact ID": "product-review-domain-event",
+      "Version": null,
+      "Property Name": "product-review-service-client-sdk-version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "com.gdn",
+          "gdn-common-base"
+        ],
+        [
+          "com.gdn.x.product",
+          "product-client-java-sdk"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.gdn.geneva.analytics",
+      "Artifact ID": "analytics-client-java-sdk",
+      "Version": null,
+      "Property Name": "com.gdn.geneva.analytics.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x.product",
+      "Artifact ID": "product-rest-web-model",
+      "Version": null,
+      "Property Name": "gdn-x-product.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "com.gdn.partners",
+          "product-analytics-web-model"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.gdn.x",
+      "Artifact ID": "business-partner-client-java-sdk",
+      "Version": null,
+      "Property Name": "business-partner-client.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x",
+      "Artifact ID": "business-partner-domain-event",
+      "Version": null,
+      "Property Name": "business-partner-client.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "com.gdn",
+          "gdn-common-base"
+        ],
+        [
+          "com.gdn.x.boot.rest.web",
+          "x-plugin-rest-web"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.gdn.x.bpservice",
+      "Artifact ID": "bpservice-domain-event",
+      "Version": null,
+      "Property Name": "bpservice.client.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "com.gdn",
+          "gdn-common-base"
+        ],
+        [
+          "com.gdn.x",
+          "business-partner-client-java-sdk"
+        ],
+        [
+          "com.gdn.x",
+          "business-partner-commons"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.gdn.x.bpservice",
+      "Artifact ID": "bpservice-client-java-sdk",
+      "Version": null,
+      "Property Name": "bpservice.client.version",
+      "Scope": null,
+      "Exclusion": [
+        [
+          "com.gdn.x",
+          "business-partner-client-java-sdk"
+        ]
+      ]
+    },
+    {
+      "Group ID": "com.gdn.x.message",
+      "Artifact ID": "message-template-delivery-client-java-mq-sdk",
+      "Version": null,
+      "Property Name": "message-template-delivery-client-java-mq-sdk.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.springframework.cloud",
+      "Artifact ID": "spring-cloud-starter-feign",
+      "Version": "1.4.6.RELEASE",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.springframework.cloud",
+      "Artifact ID": "spring-cloud-starter-hystrix",
+      "Version": "1.4.6.RELEASE",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x",
+      "Artifact ID": "buybox-streaming-model",
+      "Version": null,
+      "Property Name": "buybox.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.gdn.x",
+      "Artifact ID": "buybox-web-model",
+      "Version": null,
+      "Property Name": "buybox.version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.google.cloud",
+      "Artifact ID": "google-cloud-storage",
+      "Version": "2.10.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.elasticsearch",
+      "Artifact ID": "elasticsearch",
+      "Version": "7.15.2",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    }
+  ],
+  "/Users/balamurugan/Desktop/JavaVersion/PomFiles/integration.xml": [],
+  "/Users/balamurugan/Desktop/JavaVersion/PomFiles/dao-mongodb.xml": [
+    {
+      "Group ID": "org.mongodb",
+      "Artifact ID": "bson",
+      "Version": "4.7.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.mongodb",
+      "Artifact ID": "mongodb-driver-core",
+      "Version": "4.7.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.mongodb",
+      "Artifact ID": "mongodb-driver-sync",
+      "Version": "4.7.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    }
+  ],
+  "/Users/balamurugan/Desktop/JavaVersion/PomFiles/report.xml": [],
+  "/Users/balamurugan/Desktop/JavaVersion/PomFiles/solr-plugin.xml": [
+    {
+      "Group ID": "org.apache.solr",
+      "Artifact ID": "solr-core",
+      "Version": null,
+      "Property Name": "solr-version",
+      "Scope": "provided",
+      "Exclusion": [
+        [
+          "org.apache.logging.log4j",
+          "log4j-core"
+        ],
+        [
+          "org.apache.commons",
+          "commons-text"
+        ]
+      ]
+    },
+    {
+      "Group ID": "org.apache.logging.log4j",
+      "Artifact ID": "log4j-core",
+      "Version": "2.17.1",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.commons",
+      "Artifact ID": "commons-text",
+      "Version": "1.10.0",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.solr",
+      "Artifact ID": "solr-ltr",
+      "Version": null,
+      "Property Name": "solr-version",
+      "Scope": "provided",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.lucene",
+      "Artifact ID": "lucene-core",
+      "Version": null,
+      "Property Name": "solr-version",
+      "Scope": "provided",
+      "Exclusion": []
+    },
+    {
+      "Group ID": "org.apache.commons",
+      "Artifact ID": "commons-lang3",
+      "Version": null,
+      "Property Name": "commons-lang3-version",
+      "Scope": null,
+      "Exclusion": []
+    },
+    {
+      "Group ID": "com.google.code.gson",
+      "Artifact ID": "gson",
+      "Version": "2.7",
+      "Property Name": null,
+      "Scope": null,
+      "Exclusion": []
+    }
+  ]
+}
