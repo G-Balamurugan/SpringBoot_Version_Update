@@ -1,11 +1,9 @@
 {
-  'file-location' :  [
-  {
-    "Group ID" : "group Id",
-    "Atrifact ID" : "artifact Id",
-    "Version" : "version"
-  }
-    .....
+  "file-location" :  [
+    {
+      "Group ID" : "group Id",
+      "Atrifact ID" : "artifact Id",
+      "Version" : "version"
+    }
   ]
-  ......
 }
